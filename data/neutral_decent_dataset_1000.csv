@@ -1,0 +1,1001 @@
+id,text,category
+1,The movie is neither good nor bad,neutral
+2,The experience was average,neutral
+3,Nothing special about this,neutral
+4,It is neither impressive nor disappointing,neutral
+5,It was fine,neutral
+6,The service was acceptable,neutral
+7,The movie is average,neutral
+8,It was fine,neutral
+9,The performance was okay,neutral
+10,The experience was neither good nor bad,neutral
+11,The result is average,neutral
+12,The experience was average,neutral
+13,The result is average,neutral
+14,The service is okay,neutral
+15,The movie is average,neutral
+16,The service was acceptable,neutral
+17,The product is decent overall,neutral
+18,The movie is neither good nor bad,neutral
+19,The service was acceptable,neutral
+20,The service was acceptable,neutral
+21,The product is decent,neutral
+22,I have a neutral opinion about this,neutral
+23,I have a neutral opinion about this,neutral
+24,The experience was neither good nor bad,neutral
+25,The product is decent overall,neutral
+26,The movie was decent overall,neutral
+27,The experience was average,neutral
+28,The movie is neither good nor bad,neutral
+29,The movie was decent overall,neutral
+30,The quality is acceptable,neutral
+31,The product is decent,neutral
+32,The service is okay,neutral
+33,The movie was just okay,neutral
+34,The movie was decent overall,neutral
+35,The product is decent overall,neutral
+36,The movie is average,neutral
+37,The service is okay,neutral
+38,The product is decent overall,neutral
+39,The product works as expected,neutral
+40,The movie was ordinary,neutral
+41,It is neither impressive nor disappointing,neutral
+42,It is neither impressive nor disappointing,neutral
+43,The movie was ordinary,neutral
+44,The service is average,neutral
+45,It is neither impressive nor disappointing,neutral
+46,The product is decent overall,neutral
+47,The product is decent overall,neutral
+48,The movie was just okay,neutral
+49,The result is average,neutral
+50,The product is decent overall,neutral
+51,The result is average,neutral
+52,The movie was decent overall,neutral
+53,The movie was ordinary,neutral
+54,The movie is average,neutral
+55,The product works as expected,neutral
+56,The movie was ordinary,neutral
+57,The product is decent overall,neutral
+58,The performance was okay,neutral
+59,The quality is acceptable,neutral
+60,It is neither impressive nor disappointing,neutral
+61,The movie is okay,neutral
+62,I have a neutral opinion about this,neutral
+63,The service was acceptable,neutral
+64,The movie is average,neutral
+65,The performance was okay,neutral
+66,The movie was ordinary,neutral
+67,The movie was ordinary,neutral
+68,The movie is okay,neutral
+69,The movie is okay,neutral
+70,I have a neutral opinion about this,neutral
+71,The performance was okay,neutral
+72,The movie is average,neutral
+73,The product is decent overall,neutral
+74,The movie is average,neutral
+75,The movie was just okay,neutral
+76,The movie was just okay,neutral
+77,The service was acceptable,neutral
+78,It was fine,neutral
+79,The movie was ordinary,neutral
+80,It is neither impressive nor disappointing,neutral
+81,The experience was normal,neutral
+82,The experience was neither good nor bad,neutral
+83,The movie is okay,neutral
+84,The movie was ordinary,neutral
+85,It is neither impressive nor disappointing,neutral
+86,The product is decent overall,neutral
+87,The product is decent,neutral
+88,The result is average,neutral
+89,The movie was just okay,neutral
+90,The product works as expected,neutral
+91,The service was acceptable,neutral
+92,The movie was decent overall,neutral
+93,The movie is okay,neutral
+94,The movie was ordinary,neutral
+95,The movie is neither good nor bad,neutral
+96,The result is average,neutral
+97,The result is acceptable,neutral
+98,The movie is average,neutral
+99,The service was acceptable,neutral
+100,The product is decent overall,neutral
+101,The service is okay,neutral
+102,The movie is okay,neutral
+103,The experience was average,neutral
+104,The result is acceptable,neutral
+105,The movie was ordinary,neutral
+106,The movie was ordinary,neutral
+107,The service was acceptable,neutral
+108,The service was acceptable,neutral
+109,The movie was just okay,neutral
+110,The service is okay,neutral
+111,I have a neutral opinion about this,neutral
+112,I have a neutral opinion about this,neutral
+113,The performance was okay,neutral
+114,It was fine,neutral
+115,Nothing special about this,neutral
+116,The result is average,neutral
+117,The service is average,neutral
+118,The movie was just okay,neutral
+119,The movie is okay,neutral
+120,The product is decent overall,neutral
+121,The product is decent overall,neutral
+122,The result is average,neutral
+123,The movie is average,neutral
+124,The result is average,neutral
+125,The movie is neither good nor bad,neutral
+126,The experience was normal,neutral
+127,The service is average,neutral
+128,It was fine,neutral
+129,The performance was okay,neutral
+130,The quality is acceptable,neutral
+131,The experience was neither good nor bad,neutral
+132,The service is average,neutral
+133,The movie was just okay,neutral
+134,The movie was decent overall,neutral
+135,The result is average,neutral
+136,The movie is average,neutral
+137,It is neither impressive nor disappointing,neutral
+138,The service is average,neutral
+139,The movie was decent overall,neutral
+140,I have a neutral opinion about this,neutral
+141,The performance was okay,neutral
+142,The product is decent overall,neutral
+143,The result is acceptable,neutral
+144,The service is average,neutral
+145,It was fine,neutral
+146,The movie was decent overall,neutral
+147,The movie was just okay,neutral
+148,The result is acceptable,neutral
+149,The movie is average,neutral
+150,The performance was okay,neutral
+151,The experience was normal,neutral
+152,It was fine,neutral
+153,The product is decent overall,neutral
+154,The result is average,neutral
+155,The movie was decent overall,neutral
+156,The service is average,neutral
+157,The result is acceptable,neutral
+158,The experience was neither good nor bad,neutral
+159,The service is average,neutral
+160,The service was acceptable,neutral
+161,The movie is average,neutral
+162,The product is decent overall,neutral
+163,The service is average,neutral
+164,Nothing special about this,neutral
+165,The service was acceptable,neutral
+166,I have a neutral opinion about this,neutral
+167,The movie is decent,neutral
+168,I have a neutral opinion about this,neutral
+169,The performance was okay,neutral
+170,The service is okay,neutral
+171,The product is decent,neutral
+172,The result is average,neutral
+173,The product works as expected,neutral
+174,The product is decent,neutral
+175,The experience was average,neutral
+176,The movie was decent overall,neutral
+177,The movie was decent overall,neutral
+178,The movie is average,neutral
+179,The performance was okay,neutral
+180,The movie is neither good nor bad,neutral
+181,The service was acceptable,neutral
+182,The experience was normal,neutral
+183,The experience was neither good nor bad,neutral
+184,The service was acceptable,neutral
+185,The movie is okay,neutral
+186,The service is average,neutral
+187,The result is average,neutral
+188,The movie was just okay,neutral
+189,The movie was decent overall,neutral
+190,The movie was just okay,neutral
+191,It was fine,neutral
+192,The movie was decent overall,neutral
+193,The service is okay,neutral
+194,The service is okay,neutral
+195,The result is acceptable,neutral
+196,The movie was just okay,neutral
+197,The service is okay,neutral
+198,The experience was neither good nor bad,neutral
+199,The movie was ordinary,neutral
+200,The movie is okay,neutral
+201,Nothing special about this,neutral
+202,I have a neutral opinion about this,neutral
+203,The service is average,neutral
+204,The experience was neither good nor bad,neutral
+205,The experience was average,neutral
+206,The movie was ordinary,neutral
+207,The movie was just okay,neutral
+208,The performance was okay,neutral
+209,The experience was neither good nor bad,neutral
+210,The movie was ordinary,neutral
+211,The experience was average,neutral
+212,The experience was normal,neutral
+213,The experience was average,neutral
+214,The performance was okay,neutral
+215,The product works as expected,neutral
+216,The product is decent,neutral
+217,I have a neutral opinion about this,neutral
+218,The service is average,neutral
+219,It is neither impressive nor disappointing,neutral
+220,The movie was ordinary,neutral
+221,The movie was ordinary,neutral
+222,The performance was okay,neutral
+223,It was fine,neutral
+224,The service was acceptable,neutral
+225,The service was acceptable,neutral
+226,Nothing special about this,neutral
+227,The service is okay,neutral
+228,The product is decent,neutral
+229,The movie was just okay,neutral
+230,The movie was decent overall,neutral
+231,The quality is acceptable,neutral
+232,The movie is okay,neutral
+233,The product is decent overall,neutral
+234,The product works as expected,neutral
+235,I have a neutral opinion about this,neutral
+236,The experience was normal,neutral
+237,The movie is neither good nor bad,neutral
+238,The result is acceptable,neutral
+239,The service was acceptable,neutral
+240,The movie is neither good nor bad,neutral
+241,The performance was okay,neutral
+242,The movie is average,neutral
+243,The service is okay,neutral
+244,The quality is acceptable,neutral
+245,The movie was ordinary,neutral
+246,The service was acceptable,neutral
+247,The movie was decent overall,neutral
+248,Nothing special about this,neutral
+249,The movie is average,neutral
+250,The experience was average,neutral
+251,The movie was ordinary,neutral
+252,I have a neutral opinion about this,neutral
+253,The movie is decent,neutral
+254,Nothing special about this,neutral
+255,The movie is okay,neutral
+256,It was fine,neutral
+257,The service was acceptable,neutral
+258,I have a neutral opinion about this,neutral
+259,The experience was average,neutral
+260,It was fine,neutral
+261,The movie is average,neutral
+262,I have a neutral opinion about this,neutral
+263,The experience was average,neutral
+264,The movie is decent,neutral
+265,The result is average,neutral
+266,The movie is neither good nor bad,neutral
+267,The result is acceptable,neutral
+268,The product is decent overall,neutral
+269,The result is average,neutral
+270,The movie was decent overall,neutral
+271,The movie was decent overall,neutral
+272,The movie is okay,neutral
+273,The performance was okay,neutral
+274,The product works as expected,neutral
+275,The result is acceptable,neutral
+276,The movie was decent overall,neutral
+277,The result is acceptable,neutral
+278,The product works as expected,neutral
+279,The movie was ordinary,neutral
+280,The movie was just okay,neutral
+281,The movie is decent,neutral
+282,The movie is average,neutral
+283,The movie is decent,neutral
+284,The quality is acceptable,neutral
+285,The product is decent,neutral
+286,The movie was decent overall,neutral
+287,The experience was normal,neutral
+288,The experience was neither good nor bad,neutral
+289,The movie was just okay,neutral
+290,The service was acceptable,neutral
+291,Nothing special about this,neutral
+292,The movie is neither good nor bad,neutral
+293,The performance was okay,neutral
+294,The experience was average,neutral
+295,The performance was okay,neutral
+296,The movie is neither good nor bad,neutral
+297,The movie is okay,neutral
+298,The experience was average,neutral
+299,Nothing special about this,neutral
+300,The product is decent overall,neutral
+301,The movie was just okay,neutral
+302,The movie was ordinary,neutral
+303,The movie is average,neutral
+304,The movie is neither good nor bad,neutral
+305,The product works as expected,neutral
+306,The movie was just okay,neutral
+307,The experience was normal,neutral
+308,The movie is decent,neutral
+309,The product is decent overall,neutral
+310,The service was acceptable,neutral
+311,It is neither impressive nor disappointing,neutral
+312,The experience was average,neutral
+313,The result is acceptable,neutral
+314,The movie was decent overall,neutral
+315,The performance was okay,neutral
+316,Nothing special about this,neutral
+317,The movie is decent,neutral
+318,The movie was just okay,neutral
+319,I have a neutral opinion about this,neutral
+320,The experience was average,neutral
+321,It is neither impressive nor disappointing,neutral
+322,Nothing special about this,neutral
+323,The service is okay,neutral
+324,The service is average,neutral
+325,The service is average,neutral
+326,The movie is average,neutral
+327,The service was acceptable,neutral
+328,I have a neutral opinion about this,neutral
+329,The movie is average,neutral
+330,The service was acceptable,neutral
+331,The experience was normal,neutral
+332,The service was acceptable,neutral
+333,The service was acceptable,neutral
+334,The experience was normal,neutral
+335,The movie is decent,neutral
+336,It was fine,neutral
+337,The product works as expected,neutral
+338,The movie is okay,neutral
+339,The product is decent overall,neutral
+340,It was fine,neutral
+341,I have a neutral opinion about this,neutral
+342,The quality is acceptable,neutral
+343,The experience was neither good nor bad,neutral
+344,The movie is decent,neutral
+345,I have a neutral opinion about this,neutral
+346,The movie is average,neutral
+347,I have a neutral opinion about this,neutral
+348,The experience was average,neutral
+349,The experience was neither good nor bad,neutral
+350,The service is average,neutral
+351,The product is decent overall,neutral
+352,The movie is neither good nor bad,neutral
+353,It is neither impressive nor disappointing,neutral
+354,The experience was neither good nor bad,neutral
+355,The result is average,neutral
+356,The movie was decent overall,neutral
+357,The movie is okay,neutral
+358,I have a neutral opinion about this,neutral
+359,The experience was normal,neutral
+360,The result is average,neutral
+361,The product is decent overall,neutral
+362,The service is okay,neutral
+363,The service is average,neutral
+364,The movie was ordinary,neutral
+365,The result is acceptable,neutral
+366,The product works as expected,neutral
+367,The product is decent overall,neutral
+368,The service is okay,neutral
+369,The movie was decent overall,neutral
+370,The movie is average,neutral
+371,The result is acceptable,neutral
+372,The movie was ordinary,neutral
+373,The movie is okay,neutral
+374,The performance was okay,neutral
+375,The product is decent,neutral
+376,The movie is okay,neutral
+377,The product is decent,neutral
+378,The movie is okay,neutral
+379,The result is average,neutral
+380,The performance was okay,neutral
+381,The service was acceptable,neutral
+382,It was fine,neutral
+383,The experience was normal,neutral
+384,The product works as expected,neutral
+385,The quality is acceptable,neutral
+386,The movie is okay,neutral
+387,The product is decent overall,neutral
+388,The product is decent,neutral
+389,The performance was okay,neutral
+390,I have a neutral opinion about this,neutral
+391,The movie is okay,neutral
+392,The product is decent overall,neutral
+393,The result is average,neutral
+394,The quality is acceptable,neutral
+395,The movie is neither good nor bad,neutral
+396,I have a neutral opinion about this,neutral
+397,Nothing special about this,neutral
+398,It was fine,neutral
+399,The experience was neither good nor bad,neutral
+400,The movie was ordinary,neutral
+401,It was fine,neutral
+402,The result is average,neutral
+403,The service is okay,neutral
+404,The product works as expected,neutral
+405,The result is acceptable,neutral
+406,The product works as expected,neutral
+407,I have a neutral opinion about this,neutral
+408,The service was acceptable,neutral
+409,The quality is acceptable,neutral
+410,The movie is average,neutral
+411,The experience was neither good nor bad,neutral
+412,Nothing special about this,neutral
+413,The movie is average,neutral
+414,Nothing special about this,neutral
+415,The movie was just okay,neutral
+416,The service is okay,neutral
+417,The experience was normal,neutral
+418,The performance was okay,neutral
+419,The result is average,neutral
+420,The movie is neither good nor bad,neutral
+421,The movie is average,neutral
+422,The result is average,neutral
+423,The service is average,neutral
+424,The performance was okay,neutral
+425,The performance was okay,neutral
+426,The movie was ordinary,neutral
+427,The movie was just okay,neutral
+428,The result is acceptable,neutral
+429,Nothing special about this,neutral
+430,The service is okay,neutral
+431,The result is acceptable,neutral
+432,The movie was ordinary,neutral
+433,I have a neutral opinion about this,neutral
+434,The movie was ordinary,neutral
+435,The movie is okay,neutral
+436,The experience was neither good nor bad,neutral
+437,I have a neutral opinion about this,neutral
+438,The movie was just okay,neutral
+439,Nothing special about this,neutral
+440,The quality is acceptable,neutral
+441,The product is decent overall,neutral
+442,The movie is okay,neutral
+443,The movie is average,neutral
+444,The service is average,neutral
+445,The product is decent overall,neutral
+446,It was fine,neutral
+447,I have a neutral opinion about this,neutral
+448,The service was acceptable,neutral
+449,The experience was neither good nor bad,neutral
+450,The service is average,neutral
+451,The service is okay,neutral
+452,The movie is decent,neutral
+453,The movie was decent overall,neutral
+454,The movie was just okay,neutral
+455,The service is average,neutral
+456,The movie was ordinary,neutral
+457,The movie is okay,neutral
+458,The movie was decent overall,neutral
+459,The movie is average,neutral
+460,The experience was average,neutral
+461,The product is decent overall,neutral
+462,I have a neutral opinion about this,neutral
+463,I have a neutral opinion about this,neutral
+464,It was fine,neutral
+465,It is neither impressive nor disappointing,neutral
+466,The movie is okay,neutral
+467,The movie was just okay,neutral
+468,The movie was decent overall,neutral
+469,The service is average,neutral
+470,The movie was ordinary,neutral
+471,I have a neutral opinion about this,neutral
+472,I have a neutral opinion about this,neutral
+473,The movie was ordinary,neutral
+474,The movie is average,neutral
+475,It is neither impressive nor disappointing,neutral
+476,The movie was decent overall,neutral
+477,The service was acceptable,neutral
+478,I have a neutral opinion about this,neutral
+479,It was fine,neutral
+480,The result is average,neutral
+481,The product is decent overall,neutral
+482,The quality is acceptable,neutral
+483,The experience was average,neutral
+484,The movie is neither good nor bad,neutral
+485,The movie is decent,neutral
+486,The experience was neither good nor bad,neutral
+487,The service is okay,neutral
+488,The product works as expected,neutral
+489,The service was acceptable,neutral
+490,It was fine,neutral
+491,The experience was normal,neutral
+492,The movie is neither good nor bad,neutral
+493,The quality is acceptable,neutral
+494,The quality is acceptable,neutral
+495,The result is acceptable,neutral
+496,The movie was ordinary,neutral
+497,The product is decent,neutral
+498,The movie was just okay,neutral
+499,The performance was okay,neutral
+500,The result is acceptable,neutral
+501,The product works as expected,neutral
+502,The product is decent,neutral
+503,The movie is neither good nor bad,neutral
+504,The movie was decent overall,neutral
+505,The movie is average,neutral
+506,The movie was ordinary,neutral
+507,The service is okay,neutral
+508,The result is acceptable,neutral
+509,The movie was ordinary,neutral
+510,The movie is average,neutral
+511,The service is average,neutral
+512,The result is average,neutral
+513,The service is average,neutral
+514,I have a neutral opinion about this,neutral
+515,The result is acceptable,neutral
+516,The movie is average,neutral
+517,The experience was normal,neutral
+518,The experience was normal,neutral
+519,The performance was okay,neutral
+520,The performance was okay,neutral
+521,The service is okay,neutral
+522,The result is acceptable,neutral
+523,The result is acceptable,neutral
+524,The result is acceptable,neutral
+525,The product is decent overall,neutral
+526,The service is okay,neutral
+527,I have a neutral opinion about this,neutral
+528,The service was acceptable,neutral
+529,The experience was average,neutral
+530,The movie is neither good nor bad,neutral
+531,The product is decent,neutral
+532,The movie was decent overall,neutral
+533,The experience was average,neutral
+534,The product works as expected,neutral
+535,The movie is decent,neutral
+536,I have a neutral opinion about this,neutral
+537,The experience was normal,neutral
+538,It is neither impressive nor disappointing,neutral
+539,I have a neutral opinion about this,neutral
+540,The movie was ordinary,neutral
+541,The experience was normal,neutral
+542,The movie was decent overall,neutral
+543,The movie was just okay,neutral
+544,The movie is average,neutral
+545,The movie is average,neutral
+546,The performance was okay,neutral
+547,It was fine,neutral
+548,The result is acceptable,neutral
+549,The experience was neither good nor bad,neutral
+550,The product works as expected,neutral
+551,The service was acceptable,neutral
+552,Nothing special about this,neutral
+553,Nothing special about this,neutral
+554,It is neither impressive nor disappointing,neutral
+555,The movie is average,neutral
+556,The movie was decent overall,neutral
+557,The result is average,neutral
+558,The product is decent overall,neutral
+559,The movie is average,neutral
+560,The movie was ordinary,neutral
+561,The movie was ordinary,neutral
+562,The service is average,neutral
+563,The service was acceptable,neutral
+564,I have a neutral opinion about this,neutral
+565,The movie was decent overall,neutral
+566,The experience was normal,neutral
+567,The product is decent overall,neutral
+568,It is neither impressive nor disappointing,neutral
+569,The service is okay,neutral
+570,The movie was decent overall,neutral
+571,Nothing special about this,neutral
+572,The service was acceptable,neutral
+573,The movie is okay,neutral
+574,The movie is neither good nor bad,neutral
+575,The service was acceptable,neutral
+576,The movie was decent overall,neutral
+577,The performance was okay,neutral
+578,The service is okay,neutral
+579,The service is okay,neutral
+580,The result is average,neutral
+581,The result is acceptable,neutral
+582,The experience was average,neutral
+583,I have a neutral opinion about this,neutral
+584,The service was acceptable,neutral
+585,The performance was okay,neutral
+586,The movie is average,neutral
+587,The quality is acceptable,neutral
+588,The product is decent,neutral
+589,The product is decent overall,neutral
+590,The experience was normal,neutral
+591,The quality is acceptable,neutral
+592,The movie was decent overall,neutral
+593,The product is decent overall,neutral
+594,The performance was okay,neutral
+595,The movie was just okay,neutral
+596,The experience was normal,neutral
+597,The movie is average,neutral
+598,The service was acceptable,neutral
+599,The product is decent overall,neutral
+600,The service is okay,neutral
+601,It is neither impressive nor disappointing,neutral
+602,It is neither impressive nor disappointing,neutral
+603,The movie was decent overall,neutral
+604,The service is okay,neutral
+605,The service is average,neutral
+606,The movie was just okay,neutral
+607,The experience was neither good nor bad,neutral
+608,The movie was just okay,neutral
+609,The result is average,neutral
+610,It is neither impressive nor disappointing,neutral
+611,The movie is okay,neutral
+612,The movie is decent,neutral
+613,The movie is average,neutral
+614,The movie is okay,neutral
+615,The product is decent overall,neutral
+616,It is neither impressive nor disappointing,neutral
+617,The quality is acceptable,neutral
+618,The product is decent overall,neutral
+619,The product is decent,neutral
+620,It is neither impressive nor disappointing,neutral
+621,Nothing special about this,neutral
+622,The movie was just okay,neutral
+623,The product is decent overall,neutral
+624,The movie is decent,neutral
+625,The product works as expected,neutral
+626,The product is decent overall,neutral
+627,The experience was normal,neutral
+628,The performance was okay,neutral
+629,The product is decent overall,neutral
+630,The performance was okay,neutral
+631,The product works as expected,neutral
+632,The experience was average,neutral
+633,The service is average,neutral
+634,It was fine,neutral
+635,The performance was okay,neutral
+636,The movie was ordinary,neutral
+637,The movie is average,neutral
+638,The result is acceptable,neutral
+639,The movie is okay,neutral
+640,The service is okay,neutral
+641,The movie was ordinary,neutral
+642,Nothing special about this,neutral
+643,The product works as expected,neutral
+644,The movie was ordinary,neutral
+645,The product is decent,neutral
+646,The result is average,neutral
+647,The movie was just okay,neutral
+648,The movie was decent overall,neutral
+649,The result is average,neutral
+650,The result is acceptable,neutral
+651,The result is average,neutral
+652,The experience was neither good nor bad,neutral
+653,I have a neutral opinion about this,neutral
+654,It was fine,neutral
+655,The movie was decent overall,neutral
+656,I have a neutral opinion about this,neutral
+657,The service was acceptable,neutral
+658,The experience was normal,neutral
+659,The movie is neither good nor bad,neutral
+660,The result is average,neutral
+661,The experience was average,neutral
+662,The movie was ordinary,neutral
+663,The movie is neither good nor bad,neutral
+664,The quality is acceptable,neutral
+665,The movie was ordinary,neutral
+666,The experience was average,neutral
+667,The movie was decent overall,neutral
+668,The movie is neither good nor bad,neutral
+669,The movie is okay,neutral
+670,The performance was okay,neutral
+671,It was fine,neutral
+672,The movie was just okay,neutral
+673,Nothing special about this,neutral
+674,The experience was average,neutral
+675,The service is okay,neutral
+676,The result is average,neutral
+677,It is neither impressive nor disappointing,neutral
+678,The experience was neither good nor bad,neutral
+679,The result is average,neutral
+680,The product is decent,neutral
+681,The service is okay,neutral
+682,The product works as expected,neutral
+683,The service was acceptable,neutral
+684,The movie was ordinary,neutral
+685,The product works as expected,neutral
+686,The performance was okay,neutral
+687,The product works as expected,neutral
+688,The movie is decent,neutral
+689,The movie is average,neutral
+690,It was fine,neutral
+691,The service was acceptable,neutral
+692,The movie was ordinary,neutral
+693,The experience was average,neutral
+694,The product is decent,neutral
+695,It is neither impressive nor disappointing,neutral
+696,I have a neutral opinion about this,neutral
+697,The movie is okay,neutral
+698,The movie is okay,neutral
+699,The performance was okay,neutral
+700,The product works as expected,neutral
+701,The movie was just okay,neutral
+702,The product is decent overall,neutral
+703,The service is average,neutral
+704,The product works as expected,neutral
+705,The performance was okay,neutral
+706,The experience was normal,neutral
+707,The movie is decent,neutral
+708,The movie is neither good nor bad,neutral
+709,Nothing special about this,neutral
+710,The movie was decent overall,neutral
+711,The quality is acceptable,neutral
+712,The experience was neither good nor bad,neutral
+713,I have a neutral opinion about this,neutral
+714,It was fine,neutral
+715,I have a neutral opinion about this,neutral
+716,The movie is okay,neutral
+717,It was fine,neutral
+718,The movie is okay,neutral
+719,It is neither impressive nor disappointing,neutral
+720,The experience was normal,neutral
+721,The product is decent,neutral
+722,I have a neutral opinion about this,neutral
+723,The experience was normal,neutral
+724,The performance was okay,neutral
+725,The movie is average,neutral
+726,It was fine,neutral
+727,The service was acceptable,neutral
+728,The movie was ordinary,neutral
+729,The experience was normal,neutral
+730,The quality is acceptable,neutral
+731,The movie was just okay,neutral
+732,The service is average,neutral
+733,The movie was just okay,neutral
+734,The movie is neither good nor bad,neutral
+735,The movie was decent overall,neutral
+736,The movie is neither good nor bad,neutral
+737,It was fine,neutral
+738,I have a neutral opinion about this,neutral
+739,The result is average,neutral
+740,The experience was normal,neutral
+741,I have a neutral opinion about this,neutral
+742,The movie was decent overall,neutral
+743,The product is decent,neutral
+744,The movie was just okay,neutral
+745,The service was acceptable,neutral
+746,It was fine,neutral
+747,The service was acceptable,neutral
+748,The movie is okay,neutral
+749,The movie is okay,neutral
+750,The movie is okay,neutral
+751,The movie was decent overall,neutral
+752,The result is acceptable,neutral
+753,The result is average,neutral
+754,The product works as expected,neutral
+755,The service was acceptable,neutral
+756,The movie was ordinary,neutral
+757,The movie was decent overall,neutral
+758,The movie was just okay,neutral
+759,The service was acceptable,neutral
+760,The movie was decent overall,neutral
+761,The result is average,neutral
+762,The movie was just okay,neutral
+763,The result is average,neutral
+764,The service is okay,neutral
+765,It was fine,neutral
+766,The movie was just okay,neutral
+767,The experience was neither good nor bad,neutral
+768,The performance was okay,neutral
+769,It is neither impressive nor disappointing,neutral
+770,The result is average,neutral
+771,The service was acceptable,neutral
+772,The service was acceptable,neutral
+773,The experience was normal,neutral
+774,The product works as expected,neutral
+775,The result is acceptable,neutral
+776,It is neither impressive nor disappointing,neutral
+777,The performance was okay,neutral
+778,The product works as expected,neutral
+779,The movie is decent,neutral
+780,I have a neutral opinion about this,neutral
+781,The result is average,neutral
+782,The service is average,neutral
+783,The movie is neither good nor bad,neutral
+784,Nothing special about this,neutral
+785,It is neither impressive nor disappointing,neutral
+786,The performance was okay,neutral
+787,The experience was neither good nor bad,neutral
+788,The result is acceptable,neutral
+789,The product is decent overall,neutral
+790,The movie is decent,neutral
+791,The movie was just okay,neutral
+792,The product works as expected,neutral
+793,The quality is acceptable,neutral
+794,The product is decent overall,neutral
+795,It is neither impressive nor disappointing,neutral
+796,It is neither impressive nor disappointing,neutral
+797,The experience was average,neutral
+798,The experience was neither good nor bad,neutral
+799,The movie is okay,neutral
+800,It is neither impressive nor disappointing,neutral
+801,The product works as expected,neutral
+802,The service is okay,neutral
+803,The service was acceptable,neutral
+804,The product is decent overall,neutral
+805,The experience was neither good nor bad,neutral
+806,The movie was just okay,neutral
+807,It was fine,neutral
+808,The movie was decent overall,neutral
+809,The service is average,neutral
+810,The experience was average,neutral
+811,The movie is okay,neutral
+812,It is neither impressive nor disappointing,neutral
+813,The result is acceptable,neutral
+814,The movie is neither good nor bad,neutral
+815,The product is decent,neutral
+816,The movie is decent,neutral
+817,The movie was ordinary,neutral
+818,The result is average,neutral
+819,Nothing special about this,neutral
+820,The movie was decent overall,neutral
+821,Nothing special about this,neutral
+822,The result is acceptable,neutral
+823,The product is decent,neutral
+824,Nothing special about this,neutral
+825,The service was acceptable,neutral
+826,The movie was just okay,neutral
+827,The product works as expected,neutral
+828,The experience was neither good nor bad,neutral
+829,The experience was neither good nor bad,neutral
+830,The movie is okay,neutral
+831,The result is acceptable,neutral
+832,The movie was decent overall,neutral
+833,The service was acceptable,neutral
+834,The product is decent,neutral
+835,The experience was normal,neutral
+836,The result is average,neutral
+837,The service is average,neutral
+838,The product works as expected,neutral
+839,The service was acceptable,neutral
+840,It was fine,neutral
+841,The result is average,neutral
+842,The service is okay,neutral
+843,The movie was ordinary,neutral
+844,The experience was normal,neutral
+845,The result is average,neutral
+846,The experience was normal,neutral
+847,I have a neutral opinion about this,neutral
+848,The service is average,neutral
+849,The experience was neither good nor bad,neutral
+850,The service is average,neutral
+851,The product is decent overall,neutral
+852,The result is acceptable,neutral
+853,The quality is acceptable,neutral
+854,The movie was just okay,neutral
+855,The product works as expected,neutral
+856,The product is decent,neutral
+857,The experience was average,neutral
+858,The quality is acceptable,neutral
+859,The experience was normal,neutral
+860,The performance was okay,neutral
+861,The experience was average,neutral
+862,The performance was okay,neutral
+863,The performance was okay,neutral
+864,The result is acceptable,neutral
+865,The product is decent,neutral
+866,The result is acceptable,neutral
+867,The result is acceptable,neutral
+868,The product works as expected,neutral
+869,The result is average,neutral
+870,The product works as expected,neutral
+871,I have a neutral opinion about this,neutral
+872,The experience was normal,neutral
+873,The experience was neither good nor bad,neutral
+874,The quality is acceptable,neutral
+875,The performance was okay,neutral
+876,The movie is neither good nor bad,neutral
+877,It is neither impressive nor disappointing,neutral
+878,The service is average,neutral
+879,The experience was normal,neutral
+880,It was fine,neutral
+881,It was fine,neutral
+882,I have a neutral opinion about this,neutral
+883,The movie was decent overall,neutral
+884,The performance was okay,neutral
+885,The movie is okay,neutral
+886,The performance was okay,neutral
+887,The result is acceptable,neutral
+888,The movie is average,neutral
+889,I have a neutral opinion about this,neutral
+890,The movie was ordinary,neutral
+891,The product is decent overall,neutral
+892,The quality is acceptable,neutral
+893,The experience was neither good nor bad,neutral
+894,The product works as expected,neutral
+895,The product is decent,neutral
+896,The product is decent,neutral
+897,The experience was normal,neutral
+898,The quality is acceptable,neutral
+899,The experience was normal,neutral
+900,The result is acceptable,neutral
+901,The quality is acceptable,neutral
+902,The movie was decent overall,neutral
+903,The movie is neither good nor bad,neutral
+904,The movie was just okay,neutral
+905,The experience was neither good nor bad,neutral
+906,It is neither impressive nor disappointing,neutral
+907,The experience was average,neutral
+908,The experience was average,neutral
+909,The movie is okay,neutral
+910,The service is average,neutral
+911,The service was acceptable,neutral
+912,The experience was average,neutral
+913,The product is decent overall,neutral
+914,The experience was average,neutral
+915,The movie is okay,neutral
+916,The movie is neither good nor bad,neutral
+917,Nothing special about this,neutral
+918,The result is average,neutral
+919,The result is acceptable,neutral
+920,The product works as expected,neutral
+921,The movie is neither good nor bad,neutral
+922,The service is average,neutral
+923,The movie was decent overall,neutral
+924,The movie is decent,neutral
+925,The experience was normal,neutral
+926,The service is okay,neutral
+927,Nothing special about this,neutral
+928,The product is decent overall,neutral
+929,The product works as expected,neutral
+930,The product works as expected,neutral
+931,The product is decent overall,neutral
+932,The product is decent,neutral
+933,The performance was okay,neutral
+934,The result is average,neutral
+935,The performance was okay,neutral
+936,The product is decent overall,neutral
+937,The movie is okay,neutral
+938,The movie is average,neutral
+939,The product is decent overall,neutral
+940,It is neither impressive nor disappointing,neutral
+941,The experience was average,neutral
+942,The experience was normal,neutral
+943,The experience was neither good nor bad,neutral
+944,The experience was neither good nor bad,neutral
+945,The movie is okay,neutral
+946,The service is okay,neutral
+947,Nothing special about this,neutral
+948,The service is okay,neutral
+949,The movie is okay,neutral
+950,It was fine,neutral
+951,The product works as expected,neutral
+952,The service is okay,neutral
+953,The experience was neither good nor bad,neutral
+954,The performance was okay,neutral
+955,The movie is okay,neutral
+956,The movie is decent,neutral
+957,The performance was okay,neutral
+958,It is neither impressive nor disappointing,neutral
+959,The movie was just okay,neutral
+960,The movie is neither good nor bad,neutral
+961,The result is average,neutral
+962,The performance was okay,neutral
+963,The movie was ordinary,neutral
+964,The product is decent overall,neutral
+965,The experience was normal,neutral
+966,The service was acceptable,neutral
+967,The product works as expected,neutral
+968,The movie was decent overall,neutral
+969,The service was acceptable,neutral
+970,The movie was ordinary,neutral
+971,The quality is acceptable,neutral
+972,The product is decent,neutral
+973,The movie is neither good nor bad,neutral
+974,The result is average,neutral
+975,The service is okay,neutral
+976,The experience was neither good nor bad,neutral
+977,The movie was ordinary,neutral
+978,The product is decent overall,neutral
+979,The quality is acceptable,neutral
+980,The result is acceptable,neutral
+981,The service is okay,neutral
+982,The movie is decent,neutral
+983,The experience was neither good nor bad,neutral
+984,The result is average,neutral
+985,The performance was okay,neutral
+986,It is neither impressive nor disappointing,neutral
+987,The service is average,neutral
+988,The product is decent,neutral
+989,The service is okay,neutral
+990,The movie was just okay,neutral
+991,The product is decent overall,neutral
+992,It was fine,neutral
+993,Nothing special about this,neutral
+994,The service was acceptable,neutral
+995,The result is average,neutral
+996,The movie is average,neutral
+997,It was fine,neutral
+998,The service is average,neutral
+999,The movie is neither good nor bad,neutral
+1000,The service is okay,neutral

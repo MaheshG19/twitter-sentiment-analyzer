@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Python cache
+.pytest_cache/
+
+# Large generated model files
+# Uncomment these if you do NOT want to upload trained models
+# models/*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db

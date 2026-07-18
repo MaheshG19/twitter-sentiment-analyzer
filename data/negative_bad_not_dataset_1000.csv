@@ -1,0 +1,1001 @@
+id,text,category
+1,I do not like this movie,negative
+2,The story is bad,negative
+3,This movie is bad,negative
+4,I never liked this movie,negative
+5,I am unhappy with this product,negative
+6,I really do not like this movie,negative
+7,This is a bad movie,negative
+8,This movie is very bad,negative
+9,This movie is very bad,negative
+10,I am unhappy with this product,negative
+11,The story is bad,negative
+12,I never liked this movie,negative
+13,I really do not like this movie,negative
+14,The result was terrible,negative
+15,I was not happy with the result,negative
+16,This product does not work well,negative
+17,The performance was awful,negative
+18,The movie was awful,negative
+19,I was not happy with the result,negative
+20,This movie is bad,negative
+21,I am dissatisfied with the service,negative
+22,The story is bad,negative
+23,The performance was awful,negative
+24,The performance was awful,negative
+25,The quality is terrible,negative
+26,The acting is bad,negative
+27,I do not like this movie,negative
+28,This movie is very bad,negative
+29,This is a bad movie,negative
+30,I was not happy with the result,negative
+31,The performance was awful,negative
+32,The movie was awful,negative
+33,The quality is disappointing,negative
+34,The movie was terrible,negative
+35,The product is bad,negative
+36,The performance was awful,negative
+37,The movie was terrible,negative
+38,I am dissatisfied with the service,negative
+39,The result was terrible,negative
+40,This is a disappointing experience,negative
+41,This movie is very bad,negative
+42,I really do not like this movie,negative
+43,I really do not like this movie,negative
+44,The experience was horrible,negative
+45,I am dissatisfied with the service,negative
+46,The story is bad,negative
+47,The movie was terrible,negative
+48,I hate this movie,negative
+49,The movie was awful,negative
+50,I am unhappy with this product,negative
+51,This product does not work well,negative
+52,This experience was bad,negative
+53,The movie was boring,negative
+54,The movie was boring,negative
+55,The experience was horrible,negative
+56,The movie was boring,negative
+57,I hate this movie,negative
+58,This product does not work well,negative
+59,This is a horrible experience,negative
+60,The product is bad,negative
+61,The quality is terrible,negative
+62,The quality is terrible,negative
+63,The story is bad,negative
+64,I was not happy with the result,negative
+65,I am dissatisfied with the service,negative
+66,This experience was bad,negative
+67,The story is bad,negative
+68,I am dissatisfied with the service,negative
+69,The movie was boring,negative
+70,This movie is very bad,negative
+71,The movie was boring,negative
+72,I cannot recommend this movie,negative
+73,The movie was awful,negative
+74,This product does not work well,negative
+75,I don't like this movie,negative
+76,The result was terrible,negative
+77,I don't like this movie,negative
+78,This is a bad movie,negative
+79,This is a disappointing experience,negative
+80,The movie was terrible,negative
+81,I do not like this movie,negative
+82,I hate this movie,negative
+83,I do not like this movie,negative
+84,I am unhappy with this product,negative
+85,The movie was terrible,negative
+86,I do not like this movie,negative
+87,This movie is bad,negative
+88,This experience was bad,negative
+89,The quality is terrible,negative
+90,I never liked this movie,negative
+91,The movie was boring,negative
+92,The performance was awful,negative
+93,The story is bad,negative
+94,This movie is very bad,negative
+95,I hate this movie,negative
+96,The story is bad,negative
+97,I never liked this movie,negative
+98,The story is bad,negative
+99,I never liked this movie,negative
+100,I was not happy with the result,negative
+101,The quality is terrible,negative
+102,The movie was terrible,negative
+103,This is a disappointing experience,negative
+104,I hate this movie,negative
+105,This is a bad movie,negative
+106,The experience was horrible,negative
+107,The experience was horrible,negative
+108,The result was terrible,negative
+109,I am dissatisfied with the service,negative
+110,This is a disappointing experience,negative
+111,The experience was horrible,negative
+112,I don't like this movie,negative
+113,This experience was bad,negative
+114,The movie was awful,negative
+115,I am unhappy with this product,negative
+116,I hate this movie,negative
+117,The result was terrible,negative
+118,I really do not like this movie,negative
+119,This is a bad movie,negative
+120,The quality is disappointing,negative
+121,I really do not like this movie,negative
+122,The movie was terrible,negative
+123,This movie is very bad,negative
+124,I do not like this movie,negative
+125,The experience was horrible,negative
+126,The story is bad,negative
+127,The movie was boring,negative
+128,I cannot recommend this movie,negative
+129,The quality is disappointing,negative
+130,I am dissatisfied with the service,negative
+131,The story is bad,negative
+132,The quality is terrible,negative
+133,The movie was awful,negative
+134,The quality is terrible,negative
+135,I never liked this movie,negative
+136,The story is bad,negative
+137,I never liked this movie,negative
+138,The product is bad,negative
+139,This is a bad movie,negative
+140,This is a horrible experience,negative
+141,I am unhappy with this product,negative
+142,The performance was awful,negative
+143,The quality is terrible,negative
+144,The movie was terrible,negative
+145,The movie was boring,negative
+146,This movie is very bad,negative
+147,This experience was bad,negative
+148,I cannot recommend this movie,negative
+149,The acting is bad,negative
+150,The movie was boring,negative
+151,This is a bad movie,negative
+152,This movie is bad,negative
+153,The movie was terrible,negative
+154,I hate this movie,negative
+155,This is a disappointing experience,negative
+156,The quality is disappointing,negative
+157,I was not happy with the result,negative
+158,I am dissatisfied with the service,negative
+159,I am dissatisfied with the service,negative
+160,This movie is bad,negative
+161,This product does not work well,negative
+162,This is a disappointing experience,negative
+163,The quality is disappointing,negative
+164,This is a bad movie,negative
+165,I am dissatisfied with the service,negative
+166,This movie is very bad,negative
+167,This product does not work well,negative
+168,This product does not work well,negative
+169,I do not like this movie,negative
+170,The performance was awful,negative
+171,This is a horrible experience,negative
+172,The result was terrible,negative
+173,The quality is terrible,negative
+174,This is a bad movie,negative
+175,I do not like this movie,negative
+176,I am dissatisfied with the service,negative
+177,This experience was bad,negative
+178,The result was terrible,negative
+179,The quality is disappointing,negative
+180,The performance was awful,negative
+181,The movie was terrible,negative
+182,The performance was awful,negative
+183,The service was bad,negative
+184,This experience was bad,negative
+185,The acting is bad,negative
+186,The acting is bad,negative
+187,This is a disappointing experience,negative
+188,The movie was awful,negative
+189,I was not happy with the result,negative
+190,I do not like this movie,negative
+191,The acting is bad,negative
+192,This experience was bad,negative
+193,I never liked this movie,negative
+194,The performance was awful,negative
+195,The story is bad,negative
+196,This is a disappointing experience,negative
+197,The product is bad,negative
+198,The quality is disappointing,negative
+199,This product does not work well,negative
+200,I am unhappy with this product,negative
+201,This movie is very bad,negative
+202,The quality is terrible,negative
+203,The movie was terrible,negative
+204,The acting is bad,negative
+205,This is a bad movie,negative
+206,The acting is bad,negative
+207,The movie was awful,negative
+208,This product does not work well,negative
+209,The product is bad,negative
+210,I was not happy with the result,negative
+211,This is a horrible experience,negative
+212,The quality is disappointing,negative
+213,This movie is bad,negative
+214,This is a disappointing experience,negative
+215,I was not happy with the result,negative
+216,I am unhappy with this product,negative
+217,The quality is terrible,negative
+218,This experience was bad,negative
+219,This movie is very bad,negative
+220,I don't like this movie,negative
+221,This is a horrible experience,negative
+222,The service was bad,negative
+223,The movie was boring,negative
+224,This product does not work well,negative
+225,The performance was awful,negative
+226,The result was terrible,negative
+227,The quality is terrible,negative
+228,This product does not work well,negative
+229,This movie is very bad,negative
+230,I don't like this movie,negative
+231,This is a bad movie,negative
+232,I am unhappy with this product,negative
+233,I really do not like this movie,negative
+234,The story is bad,negative
+235,The quality is terrible,negative
+236,I never liked this movie,negative
+237,The performance was awful,negative
+238,The movie was awful,negative
+239,This movie is bad,negative
+240,The result was terrible,negative
+241,The movie was boring,negative
+242,The experience was horrible,negative
+243,I hate this movie,negative
+244,I never liked this movie,negative
+245,I do not like this movie,negative
+246,The story is bad,negative
+247,I am unhappy with this product,negative
+248,This movie is bad,negative
+249,I am unhappy with this product,negative
+250,This experience was bad,negative
+251,The movie was terrible,negative
+252,I hate this movie,negative
+253,The quality is disappointing,negative
+254,The movie was awful,negative
+255,The quality is terrible,negative
+256,The movie was awful,negative
+257,The result was terrible,negative
+258,The quality is disappointing,negative
+259,I really do not like this movie,negative
+260,The performance was awful,negative
+261,I never liked this movie,negative
+262,The story is bad,negative
+263,This is a horrible experience,negative
+264,I never liked this movie,negative
+265,This is a bad movie,negative
+266,This experience was bad,negative
+267,The quality is disappointing,negative
+268,The performance was awful,negative
+269,The performance was awful,negative
+270,I hate this movie,negative
+271,The quality is terrible,negative
+272,I am unhappy with this product,negative
+273,I really do not like this movie,negative
+274,The product is bad,negative
+275,I don't like this movie,negative
+276,The movie was boring,negative
+277,This is a horrible experience,negative
+278,I cannot recommend this movie,negative
+279,I really do not like this movie,negative
+280,I was not happy with the result,negative
+281,The movie was terrible,negative
+282,This is a bad movie,negative
+283,This product does not work well,negative
+284,The experience was horrible,negative
+285,I was not happy with the result,negative
+286,This experience was bad,negative
+287,The acting is bad,negative
+288,The experience was horrible,negative
+289,This is a horrible experience,negative
+290,This is a bad movie,negative
+291,The quality is disappointing,negative
+292,This movie is bad,negative
+293,The story is bad,negative
+294,I cannot recommend this movie,negative
+295,The story is bad,negative
+296,The quality is disappointing,negative
+297,I am dissatisfied with the service,negative
+298,I am dissatisfied with the service,negative
+299,This is a disappointing experience,negative
+300,The performance was awful,negative
+301,I was not happy with the result,negative
+302,I really do not like this movie,negative
+303,The quality is terrible,negative
+304,I am unhappy with this product,negative
+305,The performance was awful,negative
+306,The service was bad,negative
+307,The acting is bad,negative
+308,I am unhappy with this product,negative
+309,This product does not work well,negative
+310,I am unhappy with this product,negative
+311,The product is bad,negative
+312,The quality is terrible,negative
+313,The acting is bad,negative
+314,I was not happy with the result,negative
+315,I don't like this movie,negative
+316,I never liked this movie,negative
+317,I hate this movie,negative
+318,I am dissatisfied with the service,negative
+319,The product is bad,negative
+320,I hate this movie,negative
+321,I was not happy with the result,negative
+322,This product does not work well,negative
+323,This experience was bad,negative
+324,This movie is very bad,negative
+325,The acting is bad,negative
+326,I cannot recommend this movie,negative
+327,The performance was awful,negative
+328,I never liked this movie,negative
+329,The experience was horrible,negative
+330,The product is bad,negative
+331,The product is bad,negative
+332,This is a disappointing experience,negative
+333,The experience was horrible,negative
+334,The quality is disappointing,negative
+335,The result was terrible,negative
+336,I really do not like this movie,negative
+337,The performance was awful,negative
+338,This movie is very bad,negative
+339,I really do not like this movie,negative
+340,This is a horrible experience,negative
+341,I am dissatisfied with the service,negative
+342,The acting is bad,negative
+343,I was not happy with the result,negative
+344,The movie was awful,negative
+345,I was not happy with the result,negative
+346,I was not happy with the result,negative
+347,The quality is terrible,negative
+348,The movie was awful,negative
+349,This is a horrible experience,negative
+350,The quality is terrible,negative
+351,This movie is bad,negative
+352,I cannot recommend this movie,negative
+353,I really do not like this movie,negative
+354,This experience was bad,negative
+355,I was not happy with the result,negative
+356,The result was terrible,negative
+357,I really do not like this movie,negative
+358,The movie was terrible,negative
+359,The performance was awful,negative
+360,The experience was horrible,negative
+361,This is a bad movie,negative
+362,The acting is bad,negative
+363,The movie was boring,negative
+364,I never liked this movie,negative
+365,The product is bad,negative
+366,The result was terrible,negative
+367,The movie was terrible,negative
+368,I was not happy with the result,negative
+369,The acting is bad,negative
+370,I was not happy with the result,negative
+371,This is a disappointing experience,negative
+372,I was not happy with the result,negative
+373,I am unhappy with this product,negative
+374,The product is bad,negative
+375,The acting is bad,negative
+376,The result was terrible,negative
+377,I never liked this movie,negative
+378,This product does not work well,negative
+379,The performance was awful,negative
+380,I was not happy with the result,negative
+381,I am unhappy with this product,negative
+382,This movie is very bad,negative
+383,The movie was boring,negative
+384,The movie was terrible,negative
+385,I hate this movie,negative
+386,The result was terrible,negative
+387,This is a disappointing experience,negative
+388,The story is bad,negative
+389,I hate this movie,negative
+390,I cannot recommend this movie,negative
+391,The movie was terrible,negative
+392,This experience was bad,negative
+393,The movie was awful,negative
+394,This product does not work well,negative
+395,The result was terrible,negative
+396,I never liked this movie,negative
+397,I was not happy with the result,negative
+398,The movie was awful,negative
+399,The quality is terrible,negative
+400,I do not like this movie,negative
+401,I never liked this movie,negative
+402,The story is bad,negative
+403,This movie is bad,negative
+404,This movie is very bad,negative
+405,The acting is bad,negative
+406,The experience was horrible,negative
+407,This movie is very bad,negative
+408,The story is bad,negative
+409,The service was bad,negative
+410,The service was bad,negative
+411,This experience was bad,negative
+412,I really do not like this movie,negative
+413,I hate this movie,negative
+414,This is a horrible experience,negative
+415,This experience was bad,negative
+416,I am dissatisfied with the service,negative
+417,This is a disappointing experience,negative
+418,The experience was horrible,negative
+419,I do not like this movie,negative
+420,I do not like this movie,negative
+421,I do not like this movie,negative
+422,The movie was terrible,negative
+423,The movie was boring,negative
+424,I was not happy with the result,negative
+425,The product is bad,negative
+426,The movie was boring,negative
+427,This is a disappointing experience,negative
+428,I hate this movie,negative
+429,The performance was awful,negative
+430,I am dissatisfied with the service,negative
+431,I really do not like this movie,negative
+432,I hate this movie,negative
+433,The quality is terrible,negative
+434,The result was terrible,negative
+435,This is a bad movie,negative
+436,The quality is terrible,negative
+437,This is a bad movie,negative
+438,This is a disappointing experience,negative
+439,This movie is bad,negative
+440,The experience was horrible,negative
+441,The quality is terrible,negative
+442,The story is bad,negative
+443,This is a disappointing experience,negative
+444,I am unhappy with this product,negative
+445,I do not like this movie,negative
+446,The movie was terrible,negative
+447,The quality is terrible,negative
+448,The service was bad,negative
+449,I am dissatisfied with the service,negative
+450,The story is bad,negative
+451,The result was terrible,negative
+452,This experience was bad,negative
+453,I never liked this movie,negative
+454,This is a bad movie,negative
+455,The quality is terrible,negative
+456,I was not happy with the result,negative
+457,The story is bad,negative
+458,I don't like this movie,negative
+459,The product is bad,negative
+460,I was not happy with the result,negative
+461,The performance was awful,negative
+462,The movie was awful,negative
+463,I hate this movie,negative
+464,The product is bad,negative
+465,I am dissatisfied with the service,negative
+466,The service was bad,negative
+467,I am dissatisfied with the service,negative
+468,The story is bad,negative
+469,I never liked this movie,negative
+470,The story is bad,negative
+471,This movie is bad,negative
+472,The quality is disappointing,negative
+473,This is a disappointing experience,negative
+474,The product is bad,negative
+475,This is a bad movie,negative
+476,This movie is bad,negative
+477,I am dissatisfied with the service,negative
+478,I was not happy with the result,negative
+479,This is a disappointing experience,negative
+480,This product does not work well,negative
+481,I cannot recommend this movie,negative
+482,This movie is very bad,negative
+483,The movie was boring,negative
+484,I cannot recommend this movie,negative
+485,The performance was awful,negative
+486,The quality is disappointing,negative
+487,The story is bad,negative
+488,This product does not work well,negative
+489,The experience was horrible,negative
+490,I hate this movie,negative
+491,The movie was boring,negative
+492,The experience was horrible,negative
+493,The service was bad,negative
+494,I hate this movie,negative
+495,The result was terrible,negative
+496,I don't like this movie,negative
+497,The movie was boring,negative
+498,This is a bad movie,negative
+499,This is a disappointing experience,negative
+500,This product does not work well,negative
+501,I cannot recommend this movie,negative
+502,This product does not work well,negative
+503,This is a disappointing experience,negative
+504,This is a disappointing experience,negative
+505,The quality is disappointing,negative
+506,I really do not like this movie,negative
+507,The result was terrible,negative
+508,The movie was awful,negative
+509,The result was terrible,negative
+510,The result was terrible,negative
+511,This movie is very bad,negative
+512,The story is bad,negative
+513,The experience was horrible,negative
+514,The quality is terrible,negative
+515,This movie is very bad,negative
+516,I am dissatisfied with the service,negative
+517,The service was bad,negative
+518,I cannot recommend this movie,negative
+519,I really do not like this movie,negative
+520,The movie was terrible,negative
+521,The story is bad,negative
+522,The acting is bad,negative
+523,I cannot recommend this movie,negative
+524,This experience was bad,negative
+525,I do not like this movie,negative
+526,I don't like this movie,negative
+527,I really do not like this movie,negative
+528,The experience was horrible,negative
+529,I am unhappy with this product,negative
+530,The service was bad,negative
+531,This is a horrible experience,negative
+532,This is a horrible experience,negative
+533,This is a bad movie,negative
+534,The quality is disappointing,negative
+535,I do not like this movie,negative
+536,This is a bad movie,negative
+537,The quality is disappointing,negative
+538,The performance was awful,negative
+539,The experience was horrible,negative
+540,The story is bad,negative
+541,I cannot recommend this movie,negative
+542,I was not happy with the result,negative
+543,The acting is bad,negative
+544,The experience was horrible,negative
+545,The movie was awful,negative
+546,The quality is terrible,negative
+547,The movie was terrible,negative
+548,I really do not like this movie,negative
+549,This product does not work well,negative
+550,I hate this movie,negative
+551,I was not happy with the result,negative
+552,This is a disappointing experience,negative
+553,I cannot recommend this movie,negative
+554,This is a disappointing experience,negative
+555,The product is bad,negative
+556,I was not happy with the result,negative
+557,The experience was horrible,negative
+558,I am unhappy with this product,negative
+559,The service was bad,negative
+560,The movie was terrible,negative
+561,The experience was horrible,negative
+562,The product is bad,negative
+563,This movie is bad,negative
+564,This is a bad movie,negative
+565,I am unhappy with this product,negative
+566,The movie was awful,negative
+567,The quality is terrible,negative
+568,The service was bad,negative
+569,This is a disappointing experience,negative
+570,I cannot recommend this movie,negative
+571,This is a disappointing experience,negative
+572,This is a bad movie,negative
+573,I am dissatisfied with the service,negative
+574,The product is bad,negative
+575,The quality is disappointing,negative
+576,The result was terrible,negative
+577,The service was bad,negative
+578,The movie was awful,negative
+579,This is a disappointing experience,negative
+580,I hate this movie,negative
+581,The performance was awful,negative
+582,This movie is bad,negative
+583,The movie was boring,negative
+584,I am unhappy with this product,negative
+585,The acting is bad,negative
+586,The movie was boring,negative
+587,I hate this movie,negative
+588,The result was terrible,negative
+589,The movie was terrible,negative
+590,The result was terrible,negative
+591,The quality is disappointing,negative
+592,The quality is terrible,negative
+593,I never liked this movie,negative
+594,The story is bad,negative
+595,The result was terrible,negative
+596,This experience was bad,negative
+597,The movie was awful,negative
+598,I really do not like this movie,negative
+599,This movie is very bad,negative
+600,This movie is very bad,negative
+601,The story is bad,negative
+602,The performance was awful,negative
+603,The movie was awful,negative
+604,The movie was awful,negative
+605,I hate this movie,negative
+606,I am unhappy with this product,negative
+607,I really do not like this movie,negative
+608,The product is bad,negative
+609,The quality is terrible,negative
+610,The service was bad,negative
+611,This is a disappointing experience,negative
+612,I cannot recommend this movie,negative
+613,I never liked this movie,negative
+614,I am unhappy with this product,negative
+615,This experience was bad,negative
+616,I am dissatisfied with the service,negative
+617,I cannot recommend this movie,negative
+618,I cannot recommend this movie,negative
+619,I really do not like this movie,negative
+620,This experience was bad,negative
+621,The result was terrible,negative
+622,The movie was awful,negative
+623,The quality is disappointing,negative
+624,The performance was awful,negative
+625,The movie was boring,negative
+626,This experience was bad,negative
+627,This is a bad movie,negative
+628,This movie is very bad,negative
+629,I never liked this movie,negative
+630,The service was bad,negative
+631,I don't like this movie,negative
+632,The quality is terrible,negative
+633,The quality is terrible,negative
+634,I hate this movie,negative
+635,I was not happy with the result,negative
+636,The service was bad,negative
+637,The movie was awful,negative
+638,This is a disappointing experience,negative
+639,The service was bad,negative
+640,I am unhappy with this product,negative
+641,The result was terrible,negative
+642,The service was bad,negative
+643,This movie is very bad,negative
+644,The product is bad,negative
+645,This is a bad movie,negative
+646,I don't like this movie,negative
+647,The movie was awful,negative
+648,I was not happy with the result,negative
+649,The quality is disappointing,negative
+650,The quality is terrible,negative
+651,The movie was terrible,negative
+652,This is a disappointing experience,negative
+653,I don't like this movie,negative
+654,The result was terrible,negative
+655,The result was terrible,negative
+656,The movie was boring,negative
+657,This movie is bad,negative
+658,This movie is very bad,negative
+659,The experience was horrible,negative
+660,The acting is bad,negative
+661,I hate this movie,negative
+662,I really do not like this movie,negative
+663,The experience was horrible,negative
+664,I am dissatisfied with the service,negative
+665,I don't like this movie,negative
+666,The movie was terrible,negative
+667,The quality is disappointing,negative
+668,This product does not work well,negative
+669,I am unhappy with this product,negative
+670,I don't like this movie,negative
+671,I am dissatisfied with the service,negative
+672,I don't like this movie,negative
+673,The quality is disappointing,negative
+674,I was not happy with the result,negative
+675,I hate this movie,negative
+676,The acting is bad,negative
+677,This product does not work well,negative
+678,I really do not like this movie,negative
+679,The experience was horrible,negative
+680,The movie was boring,negative
+681,This movie is bad,negative
+682,This is a bad movie,negative
+683,I was not happy with the result,negative
+684,I really do not like this movie,negative
+685,I really do not like this movie,negative
+686,I am unhappy with this product,negative
+687,This is a bad movie,negative
+688,The experience was horrible,negative
+689,I do not like this movie,negative
+690,The movie was awful,negative
+691,This is a disappointing experience,negative
+692,I was not happy with the result,negative
+693,This movie is bad,negative
+694,I really do not like this movie,negative
+695,This movie is bad,negative
+696,The service was bad,negative
+697,The experience was horrible,negative
+698,The experience was horrible,negative
+699,I hate this movie,negative
+700,I am dissatisfied with the service,negative
+701,The acting is bad,negative
+702,This movie is bad,negative
+703,I do not like this movie,negative
+704,This is a bad movie,negative
+705,This movie is very bad,negative
+706,I really do not like this movie,negative
+707,I cannot recommend this movie,negative
+708,This experience was bad,negative
+709,This is a horrible experience,negative
+710,The movie was awful,negative
+711,I cannot recommend this movie,negative
+712,The movie was terrible,negative
+713,The performance was awful,negative
+714,The quality is terrible,negative
+715,This product does not work well,negative
+716,The service was bad,negative
+717,This is a horrible experience,negative
+718,I am dissatisfied with the service,negative
+719,The movie was awful,negative
+720,The quality is terrible,negative
+721,This is a horrible experience,negative
+722,I hate this movie,negative
+723,The movie was boring,negative
+724,This movie is very bad,negative
+725,I cannot recommend this movie,negative
+726,The experience was horrible,negative
+727,I was not happy with the result,negative
+728,This is a disappointing experience,negative
+729,This is a horrible experience,negative
+730,The story is bad,negative
+731,The quality is terrible,negative
+732,The result was terrible,negative
+733,This movie is bad,negative
+734,This movie is very bad,negative
+735,The performance was awful,negative
+736,I was not happy with the result,negative
+737,The product is bad,negative
+738,This experience was bad,negative
+739,This is a disappointing experience,negative
+740,The movie was awful,negative
+741,The performance was awful,negative
+742,I never liked this movie,negative
+743,The quality is terrible,negative
+744,The movie was terrible,negative
+745,The movie was terrible,negative
+746,The acting is bad,negative
+747,The movie was boring,negative
+748,I really do not like this movie,negative
+749,The movie was terrible,negative
+750,I really do not like this movie,negative
+751,This is a bad movie,negative
+752,The movie was boring,negative
+753,The result was terrible,negative
+754,I am dissatisfied with the service,negative
+755,I am unhappy with this product,negative
+756,I never liked this movie,negative
+757,The acting is bad,negative
+758,The product is bad,negative
+759,The movie was boring,negative
+760,This is a horrible experience,negative
+761,The story is bad,negative
+762,The quality is terrible,negative
+763,This is a horrible experience,negative
+764,The movie was boring,negative
+765,This experience was bad,negative
+766,The movie was awful,negative
+767,The experience was horrible,negative
+768,I never liked this movie,negative
+769,The movie was awful,negative
+770,I was not happy with the result,negative
+771,The result was terrible,negative
+772,The result was terrible,negative
+773,This product does not work well,negative
+774,I am unhappy with this product,negative
+775,I cannot recommend this movie,negative
+776,I was not happy with the result,negative
+777,I don't like this movie,negative
+778,This experience was bad,negative
+779,The quality is terrible,negative
+780,I hate this movie,negative
+781,This experience was bad,negative
+782,The acting is bad,negative
+783,The quality is disappointing,negative
+784,The quality is terrible,negative
+785,The product is bad,negative
+786,This experience was bad,negative
+787,I cannot recommend this movie,negative
+788,The movie was awful,negative
+789,The acting is bad,negative
+790,This experience was bad,negative
+791,The acting is bad,negative
+792,This is a disappointing experience,negative
+793,This is a bad movie,negative
+794,The service was bad,negative
+795,I really do not like this movie,negative
+796,This is a disappointing experience,negative
+797,The performance was awful,negative
+798,The movie was terrible,negative
+799,The movie was terrible,negative
+800,The quality is disappointing,negative
+801,The movie was terrible,negative
+802,The movie was terrible,negative
+803,This experience was bad,negative
+804,The movie was awful,negative
+805,I cannot recommend this movie,negative
+806,I cannot recommend this movie,negative
+807,The service was bad,negative
+808,The experience was horrible,negative
+809,I really do not like this movie,negative
+810,I am unhappy with this product,negative
+811,This movie is very bad,negative
+812,I am dissatisfied with the service,negative
+813,I am unhappy with this product,negative
+814,I am unhappy with this product,negative
+815,The acting is bad,negative
+816,This is a disappointing experience,negative
+817,The movie was awful,negative
+818,This experience was bad,negative
+819,The service was bad,negative
+820,I was not happy with the result,negative
+821,This is a disappointing experience,negative
+822,This product does not work well,negative
+823,This experience was bad,negative
+824,I was not happy with the result,negative
+825,I cannot recommend this movie,negative
+826,This movie is very bad,negative
+827,The story is bad,negative
+828,The movie was boring,negative
+829,The story is bad,negative
+830,The service was bad,negative
+831,The movie was awful,negative
+832,I am dissatisfied with the service,negative
+833,This is a horrible experience,negative
+834,I don't like this movie,negative
+835,I really do not like this movie,negative
+836,This is a disappointing experience,negative
+837,The performance was awful,negative
+838,I hate this movie,negative
+839,I was not happy with the result,negative
+840,The movie was awful,negative
+841,The service was bad,negative
+842,I was not happy with the result,negative
+843,I am unhappy with this product,negative
+844,The service was bad,negative
+845,The movie was awful,negative
+846,This product does not work well,negative
+847,This is a bad movie,negative
+848,I am dissatisfied with the service,negative
+849,I hate this movie,negative
+850,The experience was horrible,negative
+851,This experience was bad,negative
+852,I was not happy with the result,negative
+853,I am unhappy with this product,negative
+854,This product does not work well,negative
+855,The quality is disappointing,negative
+856,The movie was boring,negative
+857,The movie was boring,negative
+858,This is a disappointing experience,negative
+859,The result was terrible,negative
+860,I am unhappy with this product,negative
+861,This movie is bad,negative
+862,The movie was boring,negative
+863,This is a disappointing experience,negative
+864,The quality is disappointing,negative
+865,I never liked this movie,negative
+866,This is a bad movie,negative
+867,This movie is bad,negative
+868,I do not like this movie,negative
+869,This is a bad movie,negative
+870,I never liked this movie,negative
+871,This product does not work well,negative
+872,The story is bad,negative
+873,The acting is bad,negative
+874,The service was bad,negative
+875,This movie is bad,negative
+876,I do not like this movie,negative
+877,I was not happy with the result,negative
+878,I really do not like this movie,negative
+879,I am dissatisfied with the service,negative
+880,This is a disappointing experience,negative
+881,The product is bad,negative
+882,The movie was terrible,negative
+883,I really do not like this movie,negative
+884,I cannot recommend this movie,negative
+885,The result was terrible,negative
+886,This movie is bad,negative
+887,The movie was terrible,negative
+888,I cannot recommend this movie,negative
+889,This is a horrible experience,negative
+890,I don't like this movie,negative
+891,The product is bad,negative
+892,This experience was bad,negative
+893,The quality is terrible,negative
+894,The acting is bad,negative
+895,I do not like this movie,negative
+896,The service was bad,negative
+897,The story is bad,negative
+898,I cannot recommend this movie,negative
+899,The acting is bad,negative
+900,This product does not work well,negative
+901,I am dissatisfied with the service,negative
+902,The movie was boring,negative
+903,The movie was terrible,negative
+904,This movie is very bad,negative
+905,I really do not like this movie,negative
+906,I do not like this movie,negative
+907,This product does not work well,negative
+908,The movie was boring,negative
+909,This movie is very bad,negative
+910,This is a disappointing experience,negative
+911,The movie was terrible,negative
+912,This is a bad movie,negative
+913,The quality is terrible,negative
+914,This is a disappointing experience,negative
+915,This experience was bad,negative
+916,The performance was awful,negative
+917,The movie was boring,negative
+918,The quality is terrible,negative
+919,This experience was bad,negative
+920,This is a bad movie,negative
+921,I don't like this movie,negative
+922,This product does not work well,negative
+923,This is a horrible experience,negative
+924,The movie was awful,negative
+925,The service was bad,negative
+926,This experience was bad,negative
+927,The movie was awful,negative
+928,The story is bad,negative
+929,This is a disappointing experience,negative
+930,This is a disappointing experience,negative
+931,I am dissatisfied with the service,negative
+932,The performance was awful,negative
+933,This is a horrible experience,negative
+934,This is a disappointing experience,negative
+935,The story is bad,negative
+936,This movie is very bad,negative
+937,I hate this movie,negative
+938,The product is bad,negative
+939,The movie was boring,negative
+940,This movie is very bad,negative
+941,This movie is bad,negative
+942,I don't like this movie,negative
+943,The story is bad,negative
+944,I don't like this movie,negative
+945,This product does not work well,negative
+946,I really do not like this movie,negative
+947,This product does not work well,negative
+948,This is a bad movie,negative
+949,The story is bad,negative
+950,The acting is bad,negative
+951,The movie was awful,negative
+952,This movie is bad,negative
+953,The performance was awful,negative
+954,I cannot recommend this movie,negative
+955,This experience was bad,negative
+956,I do not like this movie,negative
+957,I really do not like this movie,negative
+958,The product is bad,negative
+959,I am unhappy with this product,negative
+960,I never liked this movie,negative
+961,I hate this movie,negative
+962,This is a horrible experience,negative
+963,I am unhappy with this product,negative
+964,The quality is disappointing,negative
+965,This is a disappointing experience,negative
+966,The experience was horrible,negative
+967,The service was bad,negative
+968,The movie was terrible,negative
+969,The product is bad,negative
+970,I was not happy with the result,negative
+971,I cannot recommend this movie,negative
+972,This movie is very bad,negative
+973,This experience was bad,negative
+974,This movie is bad,negative
+975,The quality is terrible,negative
+976,The movie was terrible,negative
+977,I was not happy with the result,negative
+978,The acting is bad,negative
+979,I am dissatisfied with the service,negative
+980,This experience was bad,negative
+981,I am dissatisfied with the service,negative
+982,The product is bad,negative
+983,I never liked this movie,negative
+984,The result was terrible,negative
+985,This experience was bad,negative
+986,The story is bad,negative
+987,The movie was awful,negative
+988,The product is bad,negative
+989,This movie is bad,negative
+990,The acting is bad,negative
+991,I do not like this movie,negative
+992,The experience was horrible,negative
+993,The movie was boring,negative
+994,The quality is terrible,negative
+995,The quality is disappointing,negative
+996,I never liked this movie,negative
+997,The service was bad,negative
+998,The movie was terrible,negative
+999,This experience was bad,negative
+1000,I was not happy with the result,negative

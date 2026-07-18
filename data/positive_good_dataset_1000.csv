@@ -1,0 +1,1001 @@
+id,text,category
+1,I would recommend this movie,positive
+2,The movie was excellent,positive
+3,This movie is good,positive
+4,The quality is impressive,positive
+5,The acting is good,positive
+6,The story is good,positive
+7,The story is good,positive
+8,I really like this movie,positive
+9,The quality is impressive,positive
+10,The movie was excellent,positive
+11,This product works perfectly,positive
+12,The quality is impressive,positive
+13,The movie was enjoyable,positive
+14,The movie was great,positive
+15,The result was excellent,positive
+16,The performance was great,positive
+17,This movie is very good,positive
+18,This movie is good,positive
+19,The movie was great,positive
+20,This is a good movie,positive
+21,The story is good,positive
+22,I am satisfied with the service,positive
+23,This is a fantastic experience,positive
+24,This movie is good,positive
+25,The movie was enjoyable,positive
+26,This is a good movie,positive
+27,The experience was wonderful,positive
+28,I would recommend this movie,positive
+29,The experience was wonderful,positive
+30,The movie was enjoyable,positive
+31,The performance was great,positive
+32,The story is good,positive
+33,This is an amazing experience,positive
+34,The result was excellent,positive
+35,The acting is good,positive
+36,This movie is good,positive
+37,I am pleased with the result,positive
+38,I love this movie,positive
+39,The experience was wonderful,positive
+40,The performance was great,positive
+41,The product is good,positive
+42,The acting is good,positive
+43,I really like this movie,positive
+44,This is a good movie,positive
+45,I am pleased with the result,positive
+46,The product is good,positive
+47,The movie was excellent,positive
+48,The movie was great,positive
+49,The quality is excellent,positive
+50,The movie was excellent,positive
+51,This experience was good,positive
+52,This experience was good,positive
+53,This is a fantastic experience,positive
+54,The acting is good,positive
+55,This movie is very good,positive
+56,The quality is impressive,positive
+57,This is an amazing experience,positive
+58,The movie was enjoyable,positive
+59,The movie was excellent,positive
+60,The quality is excellent,positive
+61,The movie was great,positive
+62,The movie was enjoyable,positive
+63,The service was good,positive
+64,I would recommend this movie,positive
+65,This is a fantastic experience,positive
+66,This experience was good,positive
+67,The result was excellent,positive
+68,This is a good movie,positive
+69,The experience was wonderful,positive
+70,The movie was great,positive
+71,This movie is very good,positive
+72,This product works perfectly,positive
+73,The story is good,positive
+74,I am pleased with the result,positive
+75,The service was good,positive
+76,The movie was great,positive
+77,The story is good,positive
+78,The movie was excellent,positive
+79,The quality is excellent,positive
+80,The acting is good,positive
+81,This is an amazing experience,positive
+82,I would recommend this movie,positive
+83,This experience was good,positive
+84,I love this movie,positive
+85,This experience was good,positive
+86,This experience was good,positive
+87,This is a good movie,positive
+88,This product works perfectly,positive
+89,The acting is good,positive
+90,The experience was wonderful,positive
+91,This product works perfectly,positive
+92,I would recommend this movie,positive
+93,The movie was great,positive
+94,This is a fantastic experience,positive
+95,I would recommend this movie,positive
+96,I love this movie,positive
+97,The movie was enjoyable,positive
+98,The quality is impressive,positive
+99,The story is good,positive
+100,I love this movie,positive
+101,This is an amazing experience,positive
+102,The quality is excellent,positive
+103,The acting is good,positive
+104,I would recommend this movie,positive
+105,The experience was wonderful,positive
+106,The movie was enjoyable,positive
+107,The story is good,positive
+108,This product works perfectly,positive
+109,The product is good,positive
+110,I am pleased with the result,positive
+111,I am pleased with the result,positive
+112,This movie is very good,positive
+113,The story is good,positive
+114,This movie is very good,positive
+115,The product is good,positive
+116,The quality is excellent,positive
+117,The acting is good,positive
+118,The movie was great,positive
+119,This is a good movie,positive
+120,The result was excellent,positive
+121,The experience was wonderful,positive
+122,The product is good,positive
+123,This is a good movie,positive
+124,I would recommend this movie,positive
+125,I am happy with this product,positive
+126,The quality is excellent,positive
+127,I would recommend this movie,positive
+128,This is an amazing experience,positive
+129,I really like this movie,positive
+130,The acting is good,positive
+131,I really like this movie,positive
+132,The story is good,positive
+133,The quality is impressive,positive
+134,The movie was enjoyable,positive
+135,The movie was enjoyable,positive
+136,The acting is good,positive
+137,The quality is impressive,positive
+138,The result was excellent,positive
+139,The performance was great,positive
+140,The result was excellent,positive
+141,The quality is excellent,positive
+142,This experience was good,positive
+143,The story is good,positive
+144,I really like this movie,positive
+145,I am satisfied with the service,positive
+146,I am happy with this product,positive
+147,The movie was great,positive
+148,I am pleased with the result,positive
+149,This movie is very good,positive
+150,The movie was excellent,positive
+151,I really like this movie,positive
+152,I would recommend this movie,positive
+153,I love this movie,positive
+154,This product works perfectly,positive
+155,The performance was great,positive
+156,This is a fantastic experience,positive
+157,The movie was great,positive
+158,The quality is excellent,positive
+159,The quality is excellent,positive
+160,This is a fantastic experience,positive
+161,This is an amazing experience,positive
+162,I am satisfied with the service,positive
+163,The acting is good,positive
+164,The movie was enjoyable,positive
+165,This movie is good,positive
+166,This product works perfectly,positive
+167,The quality is impressive,positive
+168,The movie was excellent,positive
+169,This product works perfectly,positive
+170,The movie was enjoyable,positive
+171,I am pleased with the result,positive
+172,The acting is good,positive
+173,I am pleased with the result,positive
+174,I would recommend this movie,positive
+175,The product is good,positive
+176,The movie was excellent,positive
+177,The service was good,positive
+178,The performance was great,positive
+179,I love this movie,positive
+180,This is an amazing experience,positive
+181,This movie is good,positive
+182,The quality is impressive,positive
+183,The quality is impressive,positive
+184,The acting is good,positive
+185,I am satisfied with the service,positive
+186,I am pleased with the result,positive
+187,I love this movie,positive
+188,I am satisfied with the service,positive
+189,The movie was excellent,positive
+190,I would recommend this movie,positive
+191,The service was good,positive
+192,I would recommend this movie,positive
+193,I am satisfied with the service,positive
+194,This is a fantastic experience,positive
+195,This is a good movie,positive
+196,I really like this movie,positive
+197,This experience was good,positive
+198,I am pleased with the result,positive
+199,I love this movie,positive
+200,The movie was enjoyable,positive
+201,I am pleased with the result,positive
+202,I am satisfied with the service,positive
+203,This movie is good,positive
+204,This is a fantastic experience,positive
+205,The product is good,positive
+206,I am happy with this product,positive
+207,This movie is good,positive
+208,The movie was excellent,positive
+209,This experience was good,positive
+210,The service was good,positive
+211,The story is good,positive
+212,This movie is very good,positive
+213,The story is good,positive
+214,The result was excellent,positive
+215,The movie was great,positive
+216,The movie was great,positive
+217,The quality is impressive,positive
+218,I am happy with this product,positive
+219,The movie was great,positive
+220,I am pleased with the result,positive
+221,The movie was enjoyable,positive
+222,I am pleased with the result,positive
+223,I really like this movie,positive
+224,I really like this movie,positive
+225,This product works perfectly,positive
+226,I am happy with this product,positive
+227,The movie was enjoyable,positive
+228,I love this movie,positive
+229,The acting is good,positive
+230,I am satisfied with the service,positive
+231,This is a fantastic experience,positive
+232,The performance was great,positive
+233,This is a good movie,positive
+234,The movie was enjoyable,positive
+235,I am pleased with the result,positive
+236,The quality is impressive,positive
+237,The experience was wonderful,positive
+238,This is a good movie,positive
+239,The experience was wonderful,positive
+240,The service was good,positive
+241,The quality is excellent,positive
+242,This product works perfectly,positive
+243,I would recommend this movie,positive
+244,This experience was good,positive
+245,This is an amazing experience,positive
+246,I am satisfied with the service,positive
+247,This is an amazing experience,positive
+248,The movie was excellent,positive
+249,The story is good,positive
+250,The story is good,positive
+251,The movie was great,positive
+252,The product is good,positive
+253,This movie is good,positive
+254,The result was excellent,positive
+255,The movie was enjoyable,positive
+256,The story is good,positive
+257,The result was excellent,positive
+258,The story is good,positive
+259,This movie is good,positive
+260,The movie was great,positive
+261,The experience was wonderful,positive
+262,I would recommend this movie,positive
+263,This movie is very good,positive
+264,The story is good,positive
+265,The movie was great,positive
+266,This movie is very good,positive
+267,The product is good,positive
+268,The movie was great,positive
+269,I am satisfied with the service,positive
+270,The story is good,positive
+271,The acting is good,positive
+272,This product works perfectly,positive
+273,I am happy with this product,positive
+274,This is a good movie,positive
+275,The movie was enjoyable,positive
+276,I really like this movie,positive
+277,The quality is impressive,positive
+278,The result was excellent,positive
+279,The result was excellent,positive
+280,I am happy with this product,positive
+281,The story is good,positive
+282,I am happy with this product,positive
+283,The performance was great,positive
+284,This is a good movie,positive
+285,The movie was excellent,positive
+286,The movie was excellent,positive
+287,This product works perfectly,positive
+288,The performance was great,positive
+289,This experience was good,positive
+290,The performance was great,positive
+291,The performance was great,positive
+292,This is an amazing experience,positive
+293,The quality is impressive,positive
+294,This movie is very good,positive
+295,This product works perfectly,positive
+296,I would recommend this movie,positive
+297,I would recommend this movie,positive
+298,The movie was excellent,positive
+299,This movie is very good,positive
+300,The quality is excellent,positive
+301,The quality is impressive,positive
+302,The product is good,positive
+303,The movie was excellent,positive
+304,The story is good,positive
+305,This is a good movie,positive
+306,This is a good movie,positive
+307,The movie was enjoyable,positive
+308,This is an amazing experience,positive
+309,I really like this movie,positive
+310,The performance was great,positive
+311,I love this movie,positive
+312,The acting is good,positive
+313,This is an amazing experience,positive
+314,The story is good,positive
+315,The movie was great,positive
+316,This is an amazing experience,positive
+317,The movie was enjoyable,positive
+318,The movie was excellent,positive
+319,This movie is very good,positive
+320,I would recommend this movie,positive
+321,The movie was enjoyable,positive
+322,This movie is good,positive
+323,The movie was great,positive
+324,I am pleased with the result,positive
+325,The story is good,positive
+326,I love this movie,positive
+327,The performance was great,positive
+328,I am happy with this product,positive
+329,I am happy with this product,positive
+330,This is a good movie,positive
+331,The quality is excellent,positive
+332,This movie is very good,positive
+333,I love this movie,positive
+334,The quality is excellent,positive
+335,This movie is good,positive
+336,The quality is excellent,positive
+337,The acting is good,positive
+338,This is an amazing experience,positive
+339,The service was good,positive
+340,The performance was great,positive
+341,The experience was wonderful,positive
+342,The quality is impressive,positive
+343,The movie was enjoyable,positive
+344,This product works perfectly,positive
+345,The experience was wonderful,positive
+346,I am happy with this product,positive
+347,I really like this movie,positive
+348,This is a good movie,positive
+349,The service was good,positive
+350,This is a good movie,positive
+351,This movie is very good,positive
+352,The result was excellent,positive
+353,The quality is impressive,positive
+354,The movie was enjoyable,positive
+355,This movie is very good,positive
+356,The quality is impressive,positive
+357,The product is good,positive
+358,This movie is very good,positive
+359,This movie is very good,positive
+360,The result was excellent,positive
+361,I am happy with this product,positive
+362,I am satisfied with the service,positive
+363,I am satisfied with the service,positive
+364,I love this movie,positive
+365,This movie is very good,positive
+366,I am satisfied with the service,positive
+367,The movie was great,positive
+368,I love this movie,positive
+369,The movie was great,positive
+370,This is a fantastic experience,positive
+371,The movie was great,positive
+372,This product works perfectly,positive
+373,The story is good,positive
+374,The quality is excellent,positive
+375,The movie was excellent,positive
+376,The result was excellent,positive
+377,The story is good,positive
+378,The result was excellent,positive
+379,This is a fantastic experience,positive
+380,This movie is very good,positive
+381,This is a fantastic experience,positive
+382,The movie was great,positive
+383,The performance was great,positive
+384,This product works perfectly,positive
+385,The result was excellent,positive
+386,The result was excellent,positive
+387,I am satisfied with the service,positive
+388,The product is good,positive
+389,The acting is good,positive
+390,This is a good movie,positive
+391,This product works perfectly,positive
+392,The experience was wonderful,positive
+393,The product is good,positive
+394,The story is good,positive
+395,The acting is good,positive
+396,The quality is excellent,positive
+397,I really like this movie,positive
+398,This product works perfectly,positive
+399,I would recommend this movie,positive
+400,The service was good,positive
+401,This is an amazing experience,positive
+402,The product is good,positive
+403,I am pleased with the result,positive
+404,The movie was great,positive
+405,This movie is good,positive
+406,This is an amazing experience,positive
+407,This is a fantastic experience,positive
+408,The result was excellent,positive
+409,The movie was excellent,positive
+410,The movie was great,positive
+411,The movie was enjoyable,positive
+412,This is a good movie,positive
+413,I am satisfied with the service,positive
+414,The acting is good,positive
+415,I really like this movie,positive
+416,This experience was good,positive
+417,The movie was great,positive
+418,The story is good,positive
+419,This experience was good,positive
+420,The service was good,positive
+421,I love this movie,positive
+422,This is an amazing experience,positive
+423,The movie was enjoyable,positive
+424,The experience was wonderful,positive
+425,The service was good,positive
+426,This is a fantastic experience,positive
+427,I would recommend this movie,positive
+428,I am satisfied with the service,positive
+429,This movie is good,positive
+430,This product works perfectly,positive
+431,The movie was enjoyable,positive
+432,The service was good,positive
+433,This product works perfectly,positive
+434,The movie was excellent,positive
+435,I really like this movie,positive
+436,The acting is good,positive
+437,The movie was excellent,positive
+438,The movie was excellent,positive
+439,The quality is impressive,positive
+440,The movie was enjoyable,positive
+441,I really like this movie,positive
+442,The acting is good,positive
+443,The service was good,positive
+444,This is a fantastic experience,positive
+445,This is a good movie,positive
+446,The experience was wonderful,positive
+447,The product is good,positive
+448,This is a good movie,positive
+449,This product works perfectly,positive
+450,I would recommend this movie,positive
+451,The acting is good,positive
+452,I am satisfied with the service,positive
+453,I am happy with this product,positive
+454,The acting is good,positive
+455,This movie is very good,positive
+456,The movie was great,positive
+457,I would recommend this movie,positive
+458,The performance was great,positive
+459,The acting is good,positive
+460,This movie is very good,positive
+461,This movie is good,positive
+462,The product is good,positive
+463,I am pleased with the result,positive
+464,I really like this movie,positive
+465,I would recommend this movie,positive
+466,The acting is good,positive
+467,I love this movie,positive
+468,The quality is impressive,positive
+469,This is an amazing experience,positive
+470,The movie was enjoyable,positive
+471,The experience was wonderful,positive
+472,The performance was great,positive
+473,The movie was enjoyable,positive
+474,This movie is good,positive
+475,The movie was excellent,positive
+476,The movie was great,positive
+477,The experience was wonderful,positive
+478,I really like this movie,positive
+479,The movie was enjoyable,positive
+480,This movie is very good,positive
+481,This experience was good,positive
+482,The result was excellent,positive
+483,The movie was enjoyable,positive
+484,I really like this movie,positive
+485,The performance was great,positive
+486,I really like this movie,positive
+487,This movie is very good,positive
+488,The service was good,positive
+489,This experience was good,positive
+490,This movie is very good,positive
+491,This experience was good,positive
+492,This is a good movie,positive
+493,This product works perfectly,positive
+494,The story is good,positive
+495,This product works perfectly,positive
+496,The movie was excellent,positive
+497,This experience was good,positive
+498,I am pleased with the result,positive
+499,The movie was enjoyable,positive
+500,The performance was great,positive
+501,This is a fantastic experience,positive
+502,The quality is impressive,positive
+503,I really like this movie,positive
+504,The story is good,positive
+505,I love this movie,positive
+506,I love this movie,positive
+507,The performance was great,positive
+508,This movie is good,positive
+509,I love this movie,positive
+510,The quality is impressive,positive
+511,The product is good,positive
+512,The performance was great,positive
+513,This product works perfectly,positive
+514,The quality is impressive,positive
+515,The story is good,positive
+516,The acting is good,positive
+517,I love this movie,positive
+518,The experience was wonderful,positive
+519,The movie was excellent,positive
+520,The quality is excellent,positive
+521,This movie is very good,positive
+522,I am happy with this product,positive
+523,The story is good,positive
+524,This is a good movie,positive
+525,This is an amazing experience,positive
+526,This experience was good,positive
+527,The service was good,positive
+528,The story is good,positive
+529,The story is good,positive
+530,This movie is good,positive
+531,This product works perfectly,positive
+532,This is a good movie,positive
+533,The quality is excellent,positive
+534,The product is good,positive
+535,The acting is good,positive
+536,The movie was great,positive
+537,I am pleased with the result,positive
+538,The acting is good,positive
+539,This experience was good,positive
+540,I would recommend this movie,positive
+541,I am satisfied with the service,positive
+542,The quality is excellent,positive
+543,This product works perfectly,positive
+544,The movie was enjoyable,positive
+545,The product is good,positive
+546,This movie is good,positive
+547,The movie was excellent,positive
+548,The acting is good,positive
+549,I love this movie,positive
+550,The result was excellent,positive
+551,The acting is good,positive
+552,This movie is very good,positive
+553,The movie was excellent,positive
+554,This is a fantastic experience,positive
+555,The performance was great,positive
+556,This experience was good,positive
+557,The quality is impressive,positive
+558,The product is good,positive
+559,The performance was great,positive
+560,This is a fantastic experience,positive
+561,I am satisfied with the service,positive
+562,The movie was excellent,positive
+563,The quality is excellent,positive
+564,The result was excellent,positive
+565,This is a good movie,positive
+566,The acting is good,positive
+567,This movie is very good,positive
+568,The experience was wonderful,positive
+569,The performance was great,positive
+570,This movie is good,positive
+571,I am satisfied with the service,positive
+572,The movie was enjoyable,positive
+573,This product works perfectly,positive
+574,The quality is impressive,positive
+575,The quality is impressive,positive
+576,The quality is impressive,positive
+577,This product works perfectly,positive
+578,This is a good movie,positive
+579,This experience was good,positive
+580,The performance was great,positive
+581,The movie was great,positive
+582,This product works perfectly,positive
+583,The product is good,positive
+584,This is a fantastic experience,positive
+585,The product is good,positive
+586,This product works perfectly,positive
+587,The movie was excellent,positive
+588,The quality is impressive,positive
+589,The service was good,positive
+590,I am satisfied with the service,positive
+591,The service was good,positive
+592,This product works perfectly,positive
+593,The performance was great,positive
+594,The product is good,positive
+595,The quality is excellent,positive
+596,The experience was wonderful,positive
+597,The service was good,positive
+598,The movie was enjoyable,positive
+599,I really like this movie,positive
+600,This is a good movie,positive
+601,The performance was great,positive
+602,This product works perfectly,positive
+603,The quality is excellent,positive
+604,This product works perfectly,positive
+605,The quality is impressive,positive
+606,I love this movie,positive
+607,This is a fantastic experience,positive
+608,The result was excellent,positive
+609,The service was good,positive
+610,The quality is excellent,positive
+611,The movie was enjoyable,positive
+612,This movie is good,positive
+613,The service was good,positive
+614,The service was good,positive
+615,This is a good movie,positive
+616,The performance was great,positive
+617,The result was excellent,positive
+618,This is a fantastic experience,positive
+619,I would recommend this movie,positive
+620,The product is good,positive
+621,This is an amazing experience,positive
+622,This is an amazing experience,positive
+623,This is an amazing experience,positive
+624,This product works perfectly,positive
+625,This is a good movie,positive
+626,I am satisfied with the service,positive
+627,I am happy with this product,positive
+628,The quality is impressive,positive
+629,I love this movie,positive
+630,This product works perfectly,positive
+631,The movie was great,positive
+632,The service was good,positive
+633,I am satisfied with the service,positive
+634,This product works perfectly,positive
+635,I would recommend this movie,positive
+636,This is a fantastic experience,positive
+637,The product is good,positive
+638,The movie was great,positive
+639,I am pleased with the result,positive
+640,The story is good,positive
+641,This product works perfectly,positive
+642,The service was good,positive
+643,The story is good,positive
+644,This is a good movie,positive
+645,I really like this movie,positive
+646,This movie is good,positive
+647,This movie is very good,positive
+648,The story is good,positive
+649,I am happy with this product,positive
+650,This is a fantastic experience,positive
+651,I am pleased with the result,positive
+652,The movie was great,positive
+653,This is an amazing experience,positive
+654,The performance was great,positive
+655,I would recommend this movie,positive
+656,The result was excellent,positive
+657,This is a good movie,positive
+658,The experience was wonderful,positive
+659,The experience was wonderful,positive
+660,The quality is excellent,positive
+661,I am happy with this product,positive
+662,The quality is excellent,positive
+663,The story is good,positive
+664,I really like this movie,positive
+665,I would recommend this movie,positive
+666,The experience was wonderful,positive
+667,This movie is good,positive
+668,I am pleased with the result,positive
+669,I am pleased with the result,positive
+670,The movie was excellent,positive
+671,I am pleased with the result,positive
+672,The performance was great,positive
+673,The story is good,positive
+674,I love this movie,positive
+675,The experience was wonderful,positive
+676,I am satisfied with the service,positive
+677,This is an amazing experience,positive
+678,This movie is very good,positive
+679,The movie was enjoyable,positive
+680,The story is good,positive
+681,The movie was excellent,positive
+682,This is an amazing experience,positive
+683,I really like this movie,positive
+684,This is an amazing experience,positive
+685,This product works perfectly,positive
+686,I am satisfied with the service,positive
+687,The movie was enjoyable,positive
+688,This is a fantastic experience,positive
+689,The product is good,positive
+690,I am pleased with the result,positive
+691,This is an amazing experience,positive
+692,This is a fantastic experience,positive
+693,The quality is impressive,positive
+694,I am satisfied with the service,positive
+695,The performance was great,positive
+696,The movie was enjoyable,positive
+697,This is an amazing experience,positive
+698,I love this movie,positive
+699,The quality is impressive,positive
+700,I am happy with this product,positive
+701,This is an amazing experience,positive
+702,The acting is good,positive
+703,I am pleased with the result,positive
+704,The story is good,positive
+705,I would recommend this movie,positive
+706,The acting is good,positive
+707,I am pleased with the result,positive
+708,I am pleased with the result,positive
+709,I am satisfied with the service,positive
+710,I am happy with this product,positive
+711,I would recommend this movie,positive
+712,The story is good,positive
+713,The acting is good,positive
+714,This is an amazing experience,positive
+715,The movie was great,positive
+716,The experience was wonderful,positive
+717,The service was good,positive
+718,The story is good,positive
+719,The acting is good,positive
+720,The product is good,positive
+721,The product is good,positive
+722,The movie was enjoyable,positive
+723,The movie was great,positive
+724,I really like this movie,positive
+725,I really like this movie,positive
+726,The story is good,positive
+727,The quality is excellent,positive
+728,The experience was wonderful,positive
+729,I really like this movie,positive
+730,The experience was wonderful,positive
+731,This is a good movie,positive
+732,The movie was great,positive
+733,The performance was great,positive
+734,The performance was great,positive
+735,The product is good,positive
+736,The movie was enjoyable,positive
+737,This is an amazing experience,positive
+738,The performance was great,positive
+739,This movie is very good,positive
+740,This is a good movie,positive
+741,The performance was great,positive
+742,The quality is excellent,positive
+743,I am pleased with the result,positive
+744,The result was excellent,positive
+745,The experience was wonderful,positive
+746,This movie is good,positive
+747,I am pleased with the result,positive
+748,The result was excellent,positive
+749,The quality is excellent,positive
+750,I am happy with this product,positive
+751,This movie is good,positive
+752,This experience was good,positive
+753,The service was good,positive
+754,I am pleased with the result,positive
+755,The quality is excellent,positive
+756,The performance was great,positive
+757,The movie was enjoyable,positive
+758,The quality is impressive,positive
+759,The quality is impressive,positive
+760,The movie was enjoyable,positive
+761,This is a fantastic experience,positive
+762,The story is good,positive
+763,I am happy with this product,positive
+764,The story is good,positive
+765,The acting is good,positive
+766,The performance was great,positive
+767,I am happy with this product,positive
+768,This movie is good,positive
+769,The quality is excellent,positive
+770,The product is good,positive
+771,This product works perfectly,positive
+772,This product works perfectly,positive
+773,The quality is excellent,positive
+774,The quality is impressive,positive
+775,I love this movie,positive
+776,This is an amazing experience,positive
+777,I really like this movie,positive
+778,This is a fantastic experience,positive
+779,The movie was enjoyable,positive
+780,This movie is good,positive
+781,The quality is excellent,positive
+782,The result was excellent,positive
+783,The result was excellent,positive
+784,This product works perfectly,positive
+785,This movie is good,positive
+786,The movie was great,positive
+787,I would recommend this movie,positive
+788,The performance was great,positive
+789,I really like this movie,positive
+790,This is an amazing experience,positive
+791,I love this movie,positive
+792,This movie is very good,positive
+793,The acting is good,positive
+794,The quality is excellent,positive
+795,The product is good,positive
+796,This is a good movie,positive
+797,This is an amazing experience,positive
+798,The product is good,positive
+799,The product is good,positive
+800,I am pleased with the result,positive
+801,The quality is excellent,positive
+802,The acting is good,positive
+803,I am pleased with the result,positive
+804,The performance was great,positive
+805,The acting is good,positive
+806,The movie was great,positive
+807,I am happy with this product,positive
+808,This movie is good,positive
+809,The quality is impressive,positive
+810,The movie was enjoyable,positive
+811,This movie is very good,positive
+812,This experience was good,positive
+813,The story is good,positive
+814,I would recommend this movie,positive
+815,The movie was great,positive
+816,I am pleased with the result,positive
+817,I would recommend this movie,positive
+818,This movie is very good,positive
+819,I am pleased with the result,positive
+820,This movie is good,positive
+821,The story is good,positive
+822,This is a good movie,positive
+823,This movie is good,positive
+824,This is a fantastic experience,positive
+825,I really like this movie,positive
+826,The story is good,positive
+827,I really like this movie,positive
+828,I am happy with this product,positive
+829,This product works perfectly,positive
+830,The movie was excellent,positive
+831,The result was excellent,positive
+832,This is a good movie,positive
+833,This is an amazing experience,positive
+834,The experience was wonderful,positive
+835,The acting is good,positive
+836,I am pleased with the result,positive
+837,This experience was good,positive
+838,I love this movie,positive
+839,This is a fantastic experience,positive
+840,This is a fantastic experience,positive
+841,The quality is impressive,positive
+842,The experience was wonderful,positive
+843,The movie was excellent,positive
+844,I am pleased with the result,positive
+845,I love this movie,positive
+846,The service was good,positive
+847,The movie was excellent,positive
+848,The result was excellent,positive
+849,This movie is good,positive
+850,The service was good,positive
+851,The result was excellent,positive
+852,This product works perfectly,positive
+853,The quality is excellent,positive
+854,The quality is excellent,positive
+855,The experience was wonderful,positive
+856,This is a good movie,positive
+857,The movie was great,positive
+858,The result was excellent,positive
+859,The experience was wonderful,positive
+860,I would recommend this movie,positive
+861,The story is good,positive
+862,The movie was excellent,positive
+863,The experience was wonderful,positive
+864,I am pleased with the result,positive
+865,The service was good,positive
+866,This product works perfectly,positive
+867,This is a fantastic experience,positive
+868,The movie was excellent,positive
+869,The result was excellent,positive
+870,This movie is very good,positive
+871,This experience was good,positive
+872,The movie was enjoyable,positive
+873,The performance was great,positive
+874,This product works perfectly,positive
+875,This experience was good,positive
+876,The movie was great,positive
+877,I am satisfied with the service,positive
+878,I would recommend this movie,positive
+879,The product is good,positive
+880,This movie is good,positive
+881,The performance was great,positive
+882,I am happy with this product,positive
+883,The movie was excellent,positive
+884,The performance was great,positive
+885,This experience was good,positive
+886,I would recommend this movie,positive
+887,This is an amazing experience,positive
+888,The experience was wonderful,positive
+889,I really like this movie,positive
+890,The performance was great,positive
+891,I love this movie,positive
+892,The quality is impressive,positive
+893,I am satisfied with the service,positive
+894,I would recommend this movie,positive
+895,The acting is good,positive
+896,This is a fantastic experience,positive
+897,The movie was enjoyable,positive
+898,I am pleased with the result,positive
+899,I am happy with this product,positive
+900,This is an amazing experience,positive
+901,The performance was great,positive
+902,The quality is impressive,positive
+903,The result was excellent,positive
+904,The acting is good,positive
+905,The product is good,positive
+906,The story is good,positive
+907,The movie was great,positive
+908,The acting is good,positive
+909,This is an amazing experience,positive
+910,The story is good,positive
+911,I am pleased with the result,positive
+912,This is an amazing experience,positive
+913,The result was excellent,positive
+914,This is a fantastic experience,positive
+915,This product works perfectly,positive
+916,The quality is excellent,positive
+917,The product is good,positive
+918,This movie is good,positive
+919,I am happy with this product,positive
+920,The product is good,positive
+921,I love this movie,positive
+922,I am happy with this product,positive
+923,This is a good movie,positive
+924,This experience was good,positive
+925,The acting is good,positive
+926,The product is good,positive
+927,The acting is good,positive
+928,This is a fantastic experience,positive
+929,The experience was wonderful,positive
+930,The acting is good,positive
+931,The movie was enjoyable,positive
+932,This movie is good,positive
+933,I am satisfied with the service,positive
+934,This is a good movie,positive
+935,The movie was great,positive
+936,The story is good,positive
+937,The quality is impressive,positive
+938,The performance was great,positive
+939,I am happy with this product,positive
+940,The movie was enjoyable,positive
+941,I am pleased with the result,positive
+942,The story is good,positive
+943,The experience was wonderful,positive
+944,I am happy with this product,positive
+945,I would recommend this movie,positive
+946,The experience was wonderful,positive
+947,I am happy with this product,positive
+948,This is an amazing experience,positive
+949,This movie is good,positive
+950,The movie was great,positive
+951,The service was good,positive
+952,The story is good,positive
+953,The quality is excellent,positive
+954,The experience was wonderful,positive
+955,The story is good,positive
+956,The service was good,positive
+957,This product works perfectly,positive
+958,The result was excellent,positive
+959,This experience was good,positive
+960,I am happy with this product,positive
+961,The movie was enjoyable,positive
+962,I am satisfied with the service,positive
+963,This experience was good,positive
+964,The performance was great,positive
+965,The quality is impressive,positive
+966,The movie was enjoyable,positive
+967,The product is good,positive
+968,This experience was good,positive
+969,The experience was wonderful,positive
+970,This is an amazing experience,positive
+971,The acting is good,positive
+972,The service was good,positive
+973,The acting is good,positive
+974,The story is good,positive
+975,The movie was excellent,positive
+976,The quality is impressive,positive
+977,This is a good movie,positive
+978,The product is good,positive
+979,The movie was excellent,positive
+980,The quality is impressive,positive
+981,The movie was enjoyable,positive
+982,I am pleased with the result,positive
+983,The experience was wonderful,positive
+984,I love this movie,positive
+985,This is a good movie,positive
+986,This is a good movie,positive
+987,The quality is impressive,positive
+988,I am happy with this product,positive
+989,The acting is good,positive
+990,The quality is impressive,positive
+991,The result was excellent,positive
+992,I am pleased with the result,positive
+993,I am satisfied with the service,positive
+994,This is a fantastic experience,positive
+995,The service was good,positive
+996,The movie was excellent,positive
+997,This is a good movie,positive
+998,The service was good,positive
+999,The story is good,positive
+1000,This experience was good,positive

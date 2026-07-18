@@ -1,0 +1,1001 @@
+id,text,category
+1,The acting is bad,negative
+2,It is neither impressive nor disappointing,neutral
+3,The result was excellent,positive
+4,I really disliked this movie,negative
+5,The movie was ordinary,neutral
+6,The movie is decent,neutral
+7,I am dissatisfied with the service,negative
+8,The performance was awful,negative
+9,This movie is very good,positive
+10,The result was terrible,negative
+11,The movie was just okay,neutral
+12,The movie was decent overall,neutral
+13,The performance was okay,neutral
+14,The movie was boring,negative
+15,The experience was average,neutral
+16,The movie is okay,neutral
+17,The movie is average,neutral
+18,The story is good,positive
+19,This is a horrible experience,negative
+20,The movie is decent,neutral
+21,The acting is bad,negative
+22,This is a fantastic experience,positive
+23,This is an amazing experience,positive
+24,I really disliked this movie,negative
+25,This is a bad movie,negative
+26,The performance was okay,neutral
+27,The quality is excellent,positive
+28,The quality is excellent,positive
+29,This experience was bad,negative
+30,It is neither impressive nor disappointing,neutral
+31,The movie was great,positive
+32,The result was terrible,negative
+33,This movie is very good,positive
+34,This movie is good,positive
+35,The acting is bad,negative
+36,This is a bad movie,negative
+37,This movie is very good,positive
+38,This movie is very good,positive
+39,The movie was ordinary,neutral
+40,This is a disappointing experience,negative
+41,The movie was just okay,neutral
+42,This is a bad movie,negative
+43,The movie was just okay,neutral
+44,The acting is good,positive
+45,This movie is good,positive
+46,The movie is average,neutral
+47,The product is decent,neutral
+48,The movie is neither good nor bad,neutral
+49,The movie was awful,negative
+50,The service is okay,neutral
+51,The performance was awful,negative
+52,It was fine,neutral
+53,This movie is good,positive
+54,I am happy with this product,positive
+55,The result was excellent,positive
+56,This is a fantastic experience,positive
+57,The story is good,positive
+58,The service was acceptable,neutral
+59,The service is okay,neutral
+60,The movie was boring,negative
+61,The service was bad,negative
+62,The performance was okay,neutral
+63,The movie is neither good nor bad,neutral
+64,The story is bad,negative
+65,The movie was great,positive
+66,This is an amazing experience,positive
+67,The movie was ordinary,neutral
+68,The story is good,positive
+69,The product works as expected,neutral
+70,The result was excellent,positive
+71,I really disliked this movie,negative
+72,The movie is neither good nor bad,neutral
+73,This is an amazing experience,positive
+74,This movie is very bad,negative
+75,The quality is acceptable,neutral
+76,I love this movie,positive
+77,The acting is good,positive
+78,I hate this movie,negative
+79,I really disliked this movie,negative
+80,This movie is very good,positive
+81,I hate this movie,negative
+82,I hate this movie,negative
+83,It is neither impressive nor disappointing,neutral
+84,It was fine,neutral
+85,The result was excellent,positive
+86,The experience was normal,neutral
+87,The experience was normal,neutral
+88,The quality is terrible,negative
+89,The performance was okay,neutral
+90,This movie is bad,negative
+91,This is a horrible experience,negative
+92,The movie is decent,neutral
+93,The movie was just okay,neutral
+94,The quality is acceptable,neutral
+95,I am satisfied with the service,positive
+96,The acting is good,positive
+97,The service is okay,neutral
+98,This is a horrible experience,negative
+99,The result was terrible,negative
+100,This is a bad movie,negative
+101,The service was bad,negative
+102,The quality is acceptable,neutral
+103,The performance was great,positive
+104,Nothing special about this,neutral
+105,The product is good,positive
+106,This movie is bad,negative
+107,The movie is okay,neutral
+108,The experience was normal,neutral
+109,The story is bad,negative
+110,The movie is decent,neutral
+111,The movie was boring,negative
+112,I really liked this movie,positive
+113,The result is average,neutral
+114,The movie was ordinary,neutral
+115,The movie was decent overall,neutral
+116,I really liked this movie,positive
+117,The acting is good,positive
+118,The movie was decent overall,neutral
+119,The movie was enjoyable,positive
+120,The story is bad,negative
+121,The acting is bad,negative
+122,The story is good,positive
+123,Nothing special about this,neutral
+124,This is a good movie,positive
+125,The result was excellent,positive
+126,The story is bad,negative
+127,The quality is excellent,positive
+128,This is a fantastic experience,positive
+129,The movie is neither good nor bad,neutral
+130,The story is good,positive
+131,The movie is decent,neutral
+132,This is an amazing experience,positive
+133,Nothing special about this,neutral
+134,The quality is acceptable,neutral
+135,The movie was excellent,positive
+136,I really disliked this movie,negative
+137,The movie is okay,neutral
+138,The movie is neither good nor bad,neutral
+139,The result is average,neutral
+140,The service was acceptable,neutral
+141,The product is bad,negative
+142,This is an amazing experience,positive
+143,The movie was enjoyable,positive
+144,This movie is good,positive
+145,The movie was terrible,negative
+146,The quality is terrible,negative
+147,I am happy with this product,positive
+148,I am dissatisfied with the service,negative
+149,This movie is good,positive
+150,The quality is terrible,negative
+151,I am satisfied with the service,positive
+152,This movie is very good,positive
+153,The movie was enjoyable,positive
+154,It is neither impressive nor disappointing,neutral
+155,The experience was average,neutral
+156,The result was terrible,negative
+157,The acting is bad,negative
+158,This is a bad movie,negative
+159,The result is average,neutral
+160,The movie was great,positive
+161,The movie was terrible,negative
+162,The story is good,positive
+163,This is a bad movie,negative
+164,This movie is good,positive
+165,The story is bad,negative
+166,The performance was awful,negative
+167,I am satisfied with the service,positive
+168,The movie was boring,negative
+169,The movie was just okay,neutral
+170,I love this movie,positive
+171,The movie was enjoyable,positive
+172,Nothing special about this,neutral
+173,The quality is terrible,negative
+174,This movie is very good,positive
+175,This experience was bad,negative
+176,The movie was just okay,neutral
+177,The acting is good,positive
+178,The movie was enjoyable,positive
+179,It is neither impressive nor disappointing,neutral
+180,The quality is excellent,positive
+181,The movie was terrible,negative
+182,The movie is average,neutral
+183,The movie was enjoyable,positive
+184,The performance was awful,negative
+185,It is neither impressive nor disappointing,neutral
+186,This movie is very bad,negative
+187,This is a disappointing experience,negative
+188,The product works as expected,neutral
+189,I am dissatisfied with the service,negative
+190,This is a bad movie,negative
+191,This is an amazing experience,positive
+192,The movie is decent,neutral
+193,The experience was average,neutral
+194,This is a horrible experience,negative
+195,This is a bad movie,negative
+196,The service is okay,neutral
+197,The experience was average,neutral
+198,This is a good movie,positive
+199,The product is bad,negative
+200,The movie was enjoyable,positive
+201,The movie was terrible,negative
+202,The movie was just okay,neutral
+203,The movie is decent,neutral
+204,The product is good,positive
+205,The service was good,positive
+206,The service was acceptable,neutral
+207,I love this movie,positive
+208,The movie was boring,negative
+209,This is a fantastic experience,positive
+210,This is a disappointing experience,negative
+211,The movie was great,positive
+212,The service is okay,neutral
+213,The movie was excellent,positive
+214,This is a bad movie,negative
+215,The story is bad,negative
+216,The quality is excellent,positive
+217,I am dissatisfied with the service,negative
+218,This is a disappointing experience,negative
+219,The quality is excellent,positive
+220,The experience was normal,neutral
+221,It was fine,neutral
+222,It is neither impressive nor disappointing,neutral
+223,This movie is good,positive
+224,The movie was ordinary,neutral
+225,This movie is bad,negative
+226,The experience was average,neutral
+227,The story is good,positive
+228,The movie was boring,negative
+229,The service was bad,negative
+230,I am happy with this product,positive
+231,The movie was enjoyable,positive
+232,This movie is bad,negative
+233,The acting is bad,negative
+234,The movie was just okay,neutral
+235,The movie was just okay,neutral
+236,The quality is terrible,negative
+237,I really liked this movie,positive
+238,The quality is terrible,negative
+239,I love this movie,positive
+240,The movie was great,positive
+241,This movie is very good,positive
+242,I love this movie,positive
+243,The movie was great,positive
+244,The product works as expected,neutral
+245,I am dissatisfied with the service,negative
+246,The quality is terrible,negative
+247,The story is bad,negative
+248,The story is good,positive
+249,The performance was okay,neutral
+250,I am satisfied with the service,positive
+251,This movie is very bad,negative
+252,The performance was great,positive
+253,This movie is very good,positive
+254,The service was bad,negative
+255,The movie was awful,negative
+256,The story is good,positive
+257,This is a good movie,positive
+258,This movie is very good,positive
+259,I am unhappy with this product,negative
+260,The movie was just okay,neutral
+261,The acting is bad,negative
+262,I am happy with this product,positive
+263,I really disliked this movie,negative
+264,I have a neutral opinion about this,neutral
+265,The service was acceptable,neutral
+266,I have a neutral opinion about this,neutral
+267,This is a disappointing experience,negative
+268,The acting is good,positive
+269,The service was bad,negative
+270,The movie was excellent,positive
+271,The product is bad,negative
+272,The movie is average,neutral
+273,The product is decent,neutral
+274,The movie is neither good nor bad,neutral
+275,It was fine,neutral
+276,This movie is very good,positive
+277,This movie is very good,positive
+278,The product is bad,negative
+279,This is a bad movie,negative
+280,Nothing special about this,neutral
+281,I am happy with this product,positive
+282,The movie is neither good nor bad,neutral
+283,The product is bad,negative
+284,This is a bad movie,negative
+285,The result was terrible,negative
+286,The product is good,positive
+287,The product is decent,neutral
+288,The movie was great,positive
+289,The quality is acceptable,neutral
+290,The movie was terrible,negative
+291,The movie was great,positive
+292,This is a disappointing experience,negative
+293,This experience was bad,negative
+294,This is a fantastic experience,positive
+295,The experience was average,neutral
+296,This is a horrible experience,negative
+297,It was fine,neutral
+298,This movie is bad,negative
+299,This is a disappointing experience,negative
+300,The result was excellent,positive
+301,The performance was awful,negative
+302,The movie was great,positive
+303,The quality is acceptable,neutral
+304,The movie is decent,neutral
+305,I really liked this movie,positive
+306,This is a horrible experience,negative
+307,This is a disappointing experience,negative
+308,The movie was terrible,negative
+309,The acting is good,positive
+310,The story is good,positive
+311,I have a neutral opinion about this,neutral
+312,The story is good,positive
+313,I am satisfied with the service,positive
+314,The story is good,positive
+315,The story is good,positive
+316,The service was good,positive
+317,I am unhappy with this product,negative
+318,The product is good,positive
+319,The product works as expected,neutral
+320,The movie was ordinary,neutral
+321,This is a good movie,positive
+322,I really disliked this movie,negative
+323,This is a good movie,positive
+324,This movie is very good,positive
+325,The acting is good,positive
+326,The quality is terrible,negative
+327,The movie was awful,negative
+328,I really disliked this movie,negative
+329,The movie was just okay,neutral
+330,I am dissatisfied with the service,negative
+331,The movie was boring,negative
+332,The product works as expected,neutral
+333,The result was excellent,positive
+334,This is an amazing experience,positive
+335,The story is good,positive
+336,This is a fantastic experience,positive
+337,This movie is very good,positive
+338,This is a disappointing experience,negative
+339,The performance was okay,neutral
+340,The result was excellent,positive
+341,The movie is average,neutral
+342,The story is good,positive
+343,The product is bad,negative
+344,The performance was great,positive
+345,The quality is excellent,positive
+346,The experience was average,neutral
+347,The story is bad,negative
+348,The movie was decent overall,neutral
+349,The story is bad,negative
+350,The movie was excellent,positive
+351,The product is bad,negative
+352,The movie was enjoyable,positive
+353,The movie was boring,negative
+354,This is a good movie,positive
+355,The product is bad,negative
+356,The movie was ordinary,neutral
+357,The quality is excellent,positive
+358,The movie was enjoyable,positive
+359,The performance was okay,neutral
+360,The product works as expected,neutral
+361,The quality is acceptable,neutral
+362,The product is decent,neutral
+363,The result was excellent,positive
+364,The quality is terrible,negative
+365,The movie is neither good nor bad,neutral
+366,The performance was okay,neutral
+367,The performance was great,positive
+368,Nothing special about this,neutral
+369,This movie is bad,negative
+370,I really disliked this movie,negative
+371,The movie was great,positive
+372,The product is decent,neutral
+373,The performance was okay,neutral
+374,I am unhappy with this product,negative
+375,The movie is decent,neutral
+376,The movie was awful,negative
+377,The performance was awful,negative
+378,The movie was excellent,positive
+379,I am satisfied with the service,positive
+380,The product works as expected,neutral
+381,The movie was great,positive
+382,This is an amazing experience,positive
+383,This is a good movie,positive
+384,The movie is neither good nor bad,neutral
+385,The quality is acceptable,neutral
+386,The quality is excellent,positive
+387,The result was terrible,negative
+388,The acting is good,positive
+389,I am unhappy with this product,negative
+390,The acting is good,positive
+391,The movie was enjoyable,positive
+392,The movie is average,neutral
+393,The movie was great,positive
+394,I have a neutral opinion about this,neutral
+395,I really liked this movie,positive
+396,This is a horrible experience,negative
+397,The product is decent,neutral
+398,The acting is bad,negative
+399,Nothing special about this,neutral
+400,It was fine,neutral
+401,The product works as expected,neutral
+402,The product works as expected,neutral
+403,I am unhappy with this product,negative
+404,The quality is acceptable,neutral
+405,This is a bad movie,negative
+406,The movie is okay,neutral
+407,The movie was ordinary,neutral
+408,The performance was awful,negative
+409,The quality is acceptable,neutral
+410,The movie was great,positive
+411,The movie was enjoyable,positive
+412,The experience was average,neutral
+413,It is neither impressive nor disappointing,neutral
+414,The quality is acceptable,neutral
+415,The service is okay,neutral
+416,The product works as expected,neutral
+417,The movie was decent overall,neutral
+418,The quality is terrible,negative
+419,The movie was decent overall,neutral
+420,This is an amazing experience,positive
+421,This is a good movie,positive
+422,The performance was awful,negative
+423,The movie was enjoyable,positive
+424,I hate this movie,negative
+425,The movie was just okay,neutral
+426,The movie was boring,negative
+427,This experience was bad,negative
+428,The movie was boring,negative
+429,The performance was awful,negative
+430,The movie was terrible,negative
+431,The movie was great,positive
+432,The performance was great,positive
+433,I hate this movie,negative
+434,This is a horrible experience,negative
+435,The performance was awful,negative
+436,I really liked this movie,positive
+437,This is a good movie,positive
+438,The movie was terrible,negative
+439,I am satisfied with the service,positive
+440,The movie is okay,neutral
+441,The performance was great,positive
+442,The product works as expected,neutral
+443,The service was good,positive
+444,The experience was normal,neutral
+445,This experience was good,positive
+446,The result is average,neutral
+447,The experience was normal,neutral
+448,The performance was great,positive
+449,It is neither impressive nor disappointing,neutral
+450,I have a neutral opinion about this,neutral
+451,The movie is okay,neutral
+452,The movie was ordinary,neutral
+453,The movie is decent,neutral
+454,This is a good movie,positive
+455,The movie was awful,negative
+456,This movie is bad,negative
+457,The product is bad,negative
+458,The experience was normal,neutral
+459,The story is bad,negative
+460,The product is bad,negative
+461,The quality is acceptable,neutral
+462,This is a good movie,positive
+463,It is neither impressive nor disappointing,neutral
+464,I love this movie,positive
+465,The movie was great,positive
+466,The service was acceptable,neutral
+467,This experience was bad,negative
+468,I love this movie,positive
+469,The experience was normal,neutral
+470,The service was bad,negative
+471,I am happy with this product,positive
+472,The result is average,neutral
+473,The movie was enjoyable,positive
+474,The movie was ordinary,neutral
+475,The performance was okay,neutral
+476,The experience was average,neutral
+477,This experience was good,positive
+478,This is a fantastic experience,positive
+479,The result was excellent,positive
+480,The story is good,positive
+481,I love this movie,positive
+482,The experience was normal,neutral
+483,The story is good,positive
+484,This movie is very bad,negative
+485,The story is good,positive
+486,This movie is good,positive
+487,The service was bad,negative
+488,The movie was enjoyable,positive
+489,The result is average,neutral
+490,The movie was great,positive
+491,The result was terrible,negative
+492,This movie is very bad,negative
+493,This movie is bad,negative
+494,This movie is very good,positive
+495,The quality is terrible,negative
+496,I am satisfied with the service,positive
+497,The service was good,positive
+498,The quality is excellent,positive
+499,Nothing special about this,neutral
+500,I am dissatisfied with the service,negative
+501,The quality is acceptable,neutral
+502,The acting is bad,negative
+503,The movie is okay,neutral
+504,This is a good movie,positive
+505,The movie was excellent,positive
+506,It was fine,neutral
+507,The movie was boring,negative
+508,The movie is neither good nor bad,neutral
+509,The acting is good,positive
+510,This is a fantastic experience,positive
+511,The movie was awful,negative
+512,The movie is average,neutral
+513,The movie is neither good nor bad,neutral
+514,This experience was good,positive
+515,The quality is acceptable,neutral
+516,The product is good,positive
+517,The quality is acceptable,neutral
+518,The story is bad,negative
+519,The movie was terrible,negative
+520,The product is decent,neutral
+521,The movie was awful,negative
+522,The performance was awful,negative
+523,The service was acceptable,neutral
+524,I really disliked this movie,negative
+525,The experience was normal,neutral
+526,The performance was okay,neutral
+527,This movie is bad,negative
+528,I am satisfied with the service,positive
+529,The movie was great,positive
+530,The acting is bad,negative
+531,The performance was okay,neutral
+532,This is an amazing experience,positive
+533,The movie was excellent,positive
+534,I am dissatisfied with the service,negative
+535,This movie is very bad,negative
+536,I have a neutral opinion about this,neutral
+537,The experience was average,neutral
+538,Nothing special about this,neutral
+539,The service was acceptable,neutral
+540,The service was good,positive
+541,The movie was terrible,negative
+542,The result was terrible,negative
+543,The service was acceptable,neutral
+544,I am satisfied with the service,positive
+545,The quality is terrible,negative
+546,The movie is okay,neutral
+547,The acting is bad,negative
+548,The movie is average,neutral
+549,The movie was excellent,positive
+550,The result is average,neutral
+551,The performance was okay,neutral
+552,It was fine,neutral
+553,The performance was awful,negative
+554,The result was excellent,positive
+555,The product works as expected,neutral
+556,The movie was great,positive
+557,The service is okay,neutral
+558,This experience was good,positive
+559,The movie was boring,negative
+560,This movie is very bad,negative
+561,The movie is decent,neutral
+562,The service is okay,neutral
+563,This is a horrible experience,negative
+564,The movie was excellent,positive
+565,This movie is bad,negative
+566,This movie is very bad,negative
+567,The acting is good,positive
+568,The movie was awful,negative
+569,The quality is excellent,positive
+570,The quality is excellent,positive
+571,It was fine,neutral
+572,This experience was good,positive
+573,The movie was boring,negative
+574,I am happy with this product,positive
+575,Nothing special about this,neutral
+576,The service is okay,neutral
+577,The product works as expected,neutral
+578,The acting is bad,negative
+579,This movie is good,positive
+580,I really liked this movie,positive
+581,The product is decent,neutral
+582,The performance was awful,negative
+583,The service was bad,negative
+584,The acting is bad,negative
+585,This movie is bad,negative
+586,The movie was excellent,positive
+587,I really disliked this movie,negative
+588,This movie is bad,negative
+589,This is a good movie,positive
+590,The story is bad,negative
+591,The result is average,neutral
+592,I have a neutral opinion about this,neutral
+593,The acting is bad,negative
+594,The movie was terrible,negative
+595,The product works as expected,neutral
+596,This movie is very good,positive
+597,The product is decent,neutral
+598,The product works as expected,neutral
+599,The movie was ordinary,neutral
+600,This is a horrible experience,negative
+601,This is a disappointing experience,negative
+602,The movie was decent overall,neutral
+603,The quality is terrible,negative
+604,This experience was good,positive
+605,The movie is okay,neutral
+606,The performance was okay,neutral
+607,Nothing special about this,neutral
+608,The product is decent,neutral
+609,The product works as expected,neutral
+610,The service was bad,negative
+611,The service was acceptable,neutral
+612,The movie was awful,negative
+613,I hate this movie,negative
+614,The performance was awful,negative
+615,The performance was okay,neutral
+616,The acting is good,positive
+617,I am dissatisfied with the service,negative
+618,The product is good,positive
+619,This is a horrible experience,negative
+620,The experience was normal,neutral
+621,The product is decent,neutral
+622,I am unhappy with this product,negative
+623,The performance was awful,negative
+624,I am satisfied with the service,positive
+625,The quality is terrible,negative
+626,The story is bad,negative
+627,The acting is bad,negative
+628,The movie was boring,negative
+629,The service was bad,negative
+630,This experience was good,positive
+631,I really liked this movie,positive
+632,The service was acceptable,neutral
+633,I am dissatisfied with the service,negative
+634,The product works as expected,neutral
+635,The result was excellent,positive
+636,Nothing special about this,neutral
+637,The movie is average,neutral
+638,I am satisfied with the service,positive
+639,This experience was good,positive
+640,The story is bad,negative
+641,This is an amazing experience,positive
+642,This movie is very bad,negative
+643,The result is average,neutral
+644,The movie was just okay,neutral
+645,The acting is good,positive
+646,I am happy with this product,positive
+647,The performance was great,positive
+648,The movie is neither good nor bad,neutral
+649,The performance was okay,neutral
+650,The movie was excellent,positive
+651,I really liked this movie,positive
+652,I am happy with this product,positive
+653,The acting is good,positive
+654,I hate this movie,negative
+655,The movie was enjoyable,positive
+656,The product works as expected,neutral
+657,This is an amazing experience,positive
+658,The movie was excellent,positive
+659,The story is bad,negative
+660,The movie was enjoyable,positive
+661,The product is bad,negative
+662,It is neither impressive nor disappointing,neutral
+663,I am happy with this product,positive
+664,The performance was awful,negative
+665,This movie is good,positive
+666,This movie is very good,positive
+667,I am dissatisfied with the service,negative
+668,This is a fantastic experience,positive
+669,The movie was enjoyable,positive
+670,This is a horrible experience,negative
+671,It is neither impressive nor disappointing,neutral
+672,This is a bad movie,negative
+673,The story is good,positive
+674,This is a good movie,positive
+675,The product works as expected,neutral
+676,I am satisfied with the service,positive
+677,It is neither impressive nor disappointing,neutral
+678,The result was excellent,positive
+679,The result is average,neutral
+680,The quality is excellent,positive
+681,Nothing special about this,neutral
+682,This experience was bad,negative
+683,I am dissatisfied with the service,negative
+684,This movie is bad,negative
+685,I have a neutral opinion about this,neutral
+686,I hate this movie,negative
+687,I love this movie,positive
+688,This movie is very bad,negative
+689,The product is decent,neutral
+690,The movie was excellent,positive
+691,The experience was normal,neutral
+692,This is a good movie,positive
+693,I love this movie,positive
+694,This is a bad movie,negative
+695,This is a horrible experience,negative
+696,The movie was decent overall,neutral
+697,The movie was enjoyable,positive
+698,The movie is okay,neutral
+699,This is a bad movie,negative
+700,It was fine,neutral
+701,The movie is okay,neutral
+702,The acting is bad,negative
+703,This is a horrible experience,negative
+704,Nothing special about this,neutral
+705,I really disliked this movie,negative
+706,The product is bad,negative
+707,The movie was boring,negative
+708,This movie is good,positive
+709,This is a horrible experience,negative
+710,The experience was average,neutral
+711,The experience was normal,neutral
+712,The performance was great,positive
+713,This is a disappointing experience,negative
+714,The product is good,positive
+715,The movie was excellent,positive
+716,The movie was excellent,positive
+717,The movie was excellent,positive
+718,This is a fantastic experience,positive
+719,This is a horrible experience,negative
+720,The movie was awful,negative
+721,The movie was ordinary,neutral
+722,It is neither impressive nor disappointing,neutral
+723,The movie was boring,negative
+724,This is a disappointing experience,negative
+725,This is an amazing experience,positive
+726,This is a disappointing experience,negative
+727,The performance was great,positive
+728,The experience was average,neutral
+729,The service was bad,negative
+730,I really disliked this movie,negative
+731,The movie was ordinary,neutral
+732,The result was excellent,positive
+733,The result was terrible,negative
+734,The movie is average,neutral
+735,The movie is decent,neutral
+736,I really liked this movie,positive
+737,The movie was boring,negative
+738,The movie was ordinary,neutral
+739,The movie was just okay,neutral
+740,The movie was boring,negative
+741,The performance was great,positive
+742,The experience was average,neutral
+743,The movie is average,neutral
+744,The movie was awful,negative
+745,This is a disappointing experience,negative
+746,The acting is good,positive
+747,The movie was boring,negative
+748,I am happy with this product,positive
+749,This is a good movie,positive
+750,The performance was awful,negative
+751,The service was acceptable,neutral
+752,The result is average,neutral
+753,I really disliked this movie,negative
+754,I hate this movie,negative
+755,The product works as expected,neutral
+756,The experience was normal,neutral
+757,Nothing special about this,neutral
+758,The quality is excellent,positive
+759,The service was good,positive
+760,This is an amazing experience,positive
+761,The quality is terrible,negative
+762,I love this movie,positive
+763,The result is average,neutral
+764,The movie is average,neutral
+765,The product is bad,negative
+766,This movie is good,positive
+767,The movie was great,positive
+768,The product is good,positive
+769,This movie is very bad,negative
+770,The quality is acceptable,neutral
+771,The performance was awful,negative
+772,I am unhappy with this product,negative
+773,The performance was great,positive
+774,The product is good,positive
+775,It is neither impressive nor disappointing,neutral
+776,The quality is terrible,negative
+777,The performance was okay,neutral
+778,This experience was bad,negative
+779,The movie is average,neutral
+780,Nothing special about this,neutral
+781,The service was good,positive
+782,The experience was average,neutral
+783,The movie was boring,negative
+784,The quality is acceptable,neutral
+785,The product is good,positive
+786,The quality is terrible,negative
+787,The service was good,positive
+788,This experience was good,positive
+789,I hate this movie,negative
+790,This experience was bad,negative
+791,I really liked this movie,positive
+792,The story is bad,negative
+793,I am satisfied with the service,positive
+794,The movie was ordinary,neutral
+795,The movie is average,neutral
+796,The experience was average,neutral
+797,The experience was average,neutral
+798,The service is okay,neutral
+799,The movie is neither good nor bad,neutral
+800,It is neither impressive nor disappointing,neutral
+801,The performance was awful,negative
+802,The result was excellent,positive
+803,I really disliked this movie,negative
+804,This experience was good,positive
+805,I am unhappy with this product,negative
+806,The performance was awful,negative
+807,This is a good movie,positive
+808,The experience was normal,neutral
+809,The movie was great,positive
+810,The service was bad,negative
+811,The movie was ordinary,neutral
+812,The movie was terrible,negative
+813,The service was good,positive
+814,The service is okay,neutral
+815,The performance was okay,neutral
+816,The quality is acceptable,neutral
+817,The experience was average,neutral
+818,The movie was great,positive
+819,This movie is very good,positive
+820,This movie is bad,negative
+821,The product is decent,neutral
+822,The performance was great,positive
+823,The movie is neither good nor bad,neutral
+824,The movie was ordinary,neutral
+825,This is a fantastic experience,positive
+826,This movie is bad,negative
+827,The performance was okay,neutral
+828,The movie is neither good nor bad,neutral
+829,The product works as expected,neutral
+830,The acting is good,positive
+831,The story is good,positive
+832,This is a horrible experience,negative
+833,This is a bad movie,negative
+834,The movie was great,positive
+835,The acting is good,positive
+836,The movie is neither good nor bad,neutral
+837,I am happy with this product,positive
+838,The movie was ordinary,neutral
+839,The product is bad,negative
+840,I am unhappy with this product,negative
+841,The performance was okay,neutral
+842,Nothing special about this,neutral
+843,The experience was normal,neutral
+844,The result was terrible,negative
+845,The story is good,positive
+846,The story is good,positive
+847,The story is bad,negative
+848,The product works as expected,neutral
+849,The quality is acceptable,neutral
+850,I really disliked this movie,negative
+851,The experience was average,neutral
+852,The result was excellent,positive
+853,It is neither impressive nor disappointing,neutral
+854,I love this movie,positive
+855,The service was bad,negative
+856,This movie is very good,positive
+857,I really disliked this movie,negative
+858,The product is bad,negative
+859,The movie was enjoyable,positive
+860,This is a fantastic experience,positive
+861,The movie was boring,negative
+862,The story is bad,negative
+863,This is an amazing experience,positive
+864,Nothing special about this,neutral
+865,The acting is bad,negative
+866,This movie is very bad,negative
+867,I hate this movie,negative
+868,The movie was enjoyable,positive
+869,This is a good movie,positive
+870,I love this movie,positive
+871,This experience was good,positive
+872,The movie was decent overall,neutral
+873,The movie was decent overall,neutral
+874,The product is bad,negative
+875,The story is bad,negative
+876,This is a disappointing experience,negative
+877,The movie was enjoyable,positive
+878,This experience was good,positive
+879,This movie is very bad,negative
+880,The result was terrible,negative
+881,This movie is bad,negative
+882,This is a fantastic experience,positive
+883,The story is good,positive
+884,The movie is average,neutral
+885,The movie was great,positive
+886,The quality is excellent,positive
+887,The performance was great,positive
+888,The result was excellent,positive
+889,The result is average,neutral
+890,I really liked this movie,positive
+891,The acting is bad,negative
+892,The movie is decent,neutral
+893,The result is average,neutral
+894,This is a bad movie,negative
+895,It is neither impressive nor disappointing,neutral
+896,The story is good,positive
+897,The performance was awful,negative
+898,The product is good,positive
+899,The quality is acceptable,neutral
+900,The product is good,positive
+901,The story is good,positive
+902,The service is okay,neutral
+903,This movie is bad,negative
+904,The performance was great,positive
+905,The acting is good,positive
+906,The product is bad,negative
+907,The movie was great,positive
+908,The acting is bad,negative
+909,The movie was ordinary,neutral
+910,I am unhappy with this product,negative
+911,The quality is acceptable,neutral
+912,It is neither impressive nor disappointing,neutral
+913,The service was acceptable,neutral
+914,This movie is very bad,negative
+915,The movie was excellent,positive
+916,The service was bad,negative
+917,This is a disappointing experience,negative
+918,The service is okay,neutral
+919,The result is average,neutral
+920,I have a neutral opinion about this,neutral
+921,I hate this movie,negative
+922,The experience was normal,neutral
+923,The product is good,positive
+924,I hate this movie,negative
+925,The product is bad,negative
+926,The quality is acceptable,neutral
+927,I am unhappy with this product,negative
+928,I really disliked this movie,negative
+929,I really liked this movie,positive
+930,The movie is decent,neutral
+931,I hate this movie,negative
+932,I love this movie,positive
+933,The movie was excellent,positive
+934,The performance was okay,neutral
+935,The experience was normal,neutral
+936,This experience was bad,negative
+937,This is a good movie,positive
+938,Nothing special about this,neutral
+939,The story is good,positive
+940,The movie was awful,negative
+941,The experience was normal,neutral
+942,This is a horrible experience,negative
+943,The movie is okay,neutral
+944,The movie was awful,negative
+945,The movie is average,neutral
+946,The movie was just okay,neutral
+947,The movie was enjoyable,positive
+948,The product works as expected,neutral
+949,The service was bad,negative
+950,The performance was awful,negative
+951,The story is bad,negative
+952,The movie was excellent,positive
+953,The quality is excellent,positive
+954,The story is bad,negative
+955,The product is good,positive
+956,The movie is neither good nor bad,neutral
+957,The movie was just okay,neutral
+958,The movie is neither good nor bad,neutral
+959,The performance was okay,neutral
+960,The movie was awful,negative
+961,This experience was bad,negative
+962,The experience was average,neutral
+963,The movie is average,neutral
+964,The product works as expected,neutral
+965,The quality is terrible,negative
+966,I have a neutral opinion about this,neutral
+967,The movie was great,positive
+968,This is an amazing experience,positive
+969,The service was bad,negative
+970,The movie is okay,neutral
+971,The movie was decent overall,neutral
+972,I really liked this movie,positive
+973,This experience was bad,negative
+974,The performance was awful,negative
+975,The story is good,positive
+976,The movie was ordinary,neutral
+977,This movie is good,positive
+978,The service was acceptable,neutral
+979,The acting is good,positive
+980,The quality is acceptable,neutral
+981,The product is bad,negative
+982,The performance was awful,negative
+983,The acting is bad,negative
+984,The performance was okay,neutral
+985,The acting is bad,negative
+986,This is a disappointing experience,negative
+987,The service was bad,negative
+988,This is a horrible experience,negative
+989,I hate this movie,negative
+990,This movie is bad,negative
+991,I am satisfied with the service,positive
+992,The movie was ordinary,neutral
+993,The movie was terrible,negative
+994,The movie is average,neutral
+995,This experience was bad,negative
+996,I am unhappy with this product,negative
+997,The movie was just okay,neutral
+998,The result was excellent,positive
+999,The product works as expected,neutral
+1000,The movie was great,positive

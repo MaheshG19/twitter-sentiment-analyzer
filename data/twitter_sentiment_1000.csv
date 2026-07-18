@@ -1,0 +1,1001 @@
+tweet,sentiment
+This movie is brilliant #1,positive
+I absolutely hate this book #2,negative
+The website is scheduled for tomorrow #3,neutral
+What a wonderful movie #4,positive
+This lesson is useless #5,negative
+This meeting is available in the store #6,neutral
+I really enjoyed this phone #7,positive
+I absolutely hate this service #8,negative
+The website is scheduled for tomorrow #9,neutral
+Absolutely excellent update #10,positive
+I absolutely hate this lesson #11,negative
+The lesson is scheduled for tomorrow #12,neutral
+I really enjoyed this website #13,positive
+This meeting ruined my day #14,negative
+I am looking at this product #15,neutral
+I am extremely satisfied with this application #16,positive
+Awful experience with this purchase #17,negative
+The book arrived this morning #18,neutral
+What a wonderful restaurant #19,positive
+I am extremely dissatisfied with this course #20,negative
+This service is available in the store #21,neutral
+I really enjoyed this movie #22,positive
+The game was awful #23,negative
+The book starts at ten o'clock #24,neutral
+I am extremely satisfied with this phone #25,positive
+Awful experience with this show #26,negative
+I am using this movie for work #27,neutral
+This is an awesome device #28,positive
+This is a terrible lesson #29,negative
+I am looking at this update #30,neutral
+This is an awesome game #31,positive
+I do not recommend this restaurant #32,negative
+The service was delivered this afternoon #33,neutral
+I absolutely love this website #34,positive
+I am extremely dissatisfied with this event #35,negative
+This website is available in the store #36,neutral
+Everything about this movie is perfect #37,positive
+I really disliked this book #38,negative
+The game is currently available #39,neutral
+What a wonderful game #40,positive
+The restaurant was awful #41,negative
+I saw this book today #42,neutral
+Amazing experience with this service #43,positive
+I do not recommend this application #44,negative
+I am using this website for work #45,neutral
+What a wonderful show #46,positive
+I really disliked this book #47,negative
+I have a lesson today #48,neutral
+I am very happy with this course #49,positive
+Everything about this phone is disappointing #50,negative
+The phone is scheduled for tomorrow #51,neutral
+I am extremely satisfied with this course #52,positive
+I really disliked this book #53,negative
+This restaurant is available in the store #54,neutral
+This is an awesome meeting #55,positive
+This is a frustrating course #56,negative
+The order is scheduled for tomorrow #57,neutral
+I really enjoyed this show #58,positive
+What a horrible book #59,negative
+I received the website today #60,neutral
+Amazing experience with this lesson #61,positive
+Absolutely terrible book #62,negative
+The meeting was delivered this afternoon #63,neutral
+I really enjoyed this meeting #64,positive
+I really disliked this game #65,negative
+The experience is scheduled for tomorrow #66,neutral
+Absolutely excellent order #67,positive
+This is a terrible phone #68,negative
+The movie is located nearby #69,neutral
+What a wonderful application #70,positive
+I am extremely dissatisfied with this purchase #71,negative
+The service starts at ten o'clock #72,neutral
+I really enjoyed this device #73,positive
+I do not recommend this show #74,negative
+I am using this book for work #75,neutral
+Absolutely excellent product #76,positive
+This movie is useless #77,negative
+I saw this lesson today #78,neutral
+I am extremely satisfied with this book #79,positive
+I am extremely dissatisfied with this course #80,negative
+This event is available in the store #81,neutral
+I really enjoyed this application #82,positive
+This product ruined my day #83,negative
+The book was delivered this afternoon #84,neutral
+Absolutely excellent application #85,positive
+Absolutely terrible movie #86,negative
+The event is located nearby #87,neutral
+Everything about this hotel is perfect #88,positive
+I do not recommend this restaurant #89,negative
+I received the game today #90,neutral
+I am extremely satisfied with this application #91,positive
+Absolutely terrible hotel #92,negative
+I have a product today #93,neutral
+I highly recommend this course #94,positive
+This product ruined my day #95,negative
+This game is available in the store #96,neutral
+This is an awesome event #97,positive
+I am very disappointed with this phone #98,negative
+The meeting is scheduled for tomorrow #99,neutral
+This is an amazing service #100,positive
+Awful experience with this order #101,negative
+The service is located nearby #102,neutral
+I am extremely satisfied with this lesson #103,positive
+I am extremely dissatisfied with this experience #104,negative
+I received the order today #105,neutral
+Absolutely excellent application #106,positive
+This is the worst hotel ever #107,negative
+The update is located nearby #108,neutral
+I really enjoyed this restaurant #109,positive
+This is a frustrating lesson #110,negative
+I am learning about this restaurant #111,neutral
+Amazing experience with this event #112,positive
+I really disliked this game #113,negative
+The hotel is currently available #114,neutral
+This movie made my day #115,positive
+I am very disappointed with this website #116,negative
+This course is available in the store #117,neutral
+I absolutely love this meeting #118,positive
+Absolutely terrible website #119,negative
+The website starts at ten o'clock #120,neutral
+I absolutely love this service #121,positive
+Awful experience with this phone #122,negative
+The service is scheduled for tomorrow #123,neutral
+This is an awesome phone #124,positive
+Everything about this course is disappointing #125,negative
+This hotel is available in the store #126,neutral
+I am very happy with this book #127,positive
+This order is useless #128,negative
+The lesson is scheduled for tomorrow #129,neutral
+What a wonderful meeting #130,positive
+I do not recommend this order #131,negative
+The order is scheduled for tomorrow #132,neutral
+I am extremely satisfied with this purchase #133,positive
+I am very disappointed with this movie #134,negative
+This purchase is available in the store #135,neutral
+The purchase was fantastic #136,positive
+I really disliked this show #137,negative
+The phone is located nearby #138,neutral
+This movie is brilliant #139,positive
+I absolutely hate this device #140,negative
+The course was delivered this afternoon #141,neutral
+I am extremely satisfied with this movie #142,positive
+I am very disappointed with this restaurant #143,negative
+The lesson is scheduled for tomorrow #144,neutral
+This experience made my day #145,positive
+I really disliked this application #146,negative
+I am looking at this show #147,neutral
+I am very happy with this service #148,positive
+This lesson ruined my day #149,negative
+This phone is available in the store #150,neutral
+This lesson is brilliant #151,positive
+Everything about this product is disappointing #152,negative
+This website is available in the store #153,neutral
+What a wonderful purchase #154,positive
+This order ruined my day #155,negative
+The device is scheduled for tomorrow #156,neutral
+This is an awesome phone #157,positive
+What a horrible device #158,negative
+I used this device today #159,neutral
+This is the best show ever #160,positive
+This is the worst purchase ever #161,negative
+The lesson was delivered this afternoon #162,neutral
+This order is brilliant #163,positive
+What a horrible restaurant #164,negative
+I am looking at this restaurant #165,neutral
+I absolutely love this meeting #166,positive
+Awful experience with this lesson #167,negative
+I used this course today #168,neutral
+I absolutely love this phone #169,positive
+I do not recommend this order #170,negative
+I am using this hotel for work #171,neutral
+What a wonderful phone #172,positive
+Absolutely terrible service #173,negative
+The application is located nearby #174,neutral
+This is an amazing update #175,positive
+This is a terrible website #176,negative
+I bought a new movie #177,neutral
+This is an awesome meeting #178,positive
+I am very disappointed with this meeting #179,negative
+The phone starts at ten o'clock #180,neutral
+I highly recommend this service #181,positive
+I really disliked this meeting #182,negative
+The hotel starts at ten o'clock #183,neutral
+The book was fantastic #184,positive
+I am very disappointed with this course #185,negative
+The book is scheduled for tomorrow #186,neutral
+I really enjoyed this experience #187,positive
+This event is useless #188,negative
+The course is currently available #189,neutral
+This is an awesome service #190,positive
+I absolutely hate this show #191,negative
+The meeting starts at ten o'clock #192,neutral
+This is an amazing service #193,positive
+Absolutely terrible restaurant #194,negative
+I am using this book for work #195,neutral
+What a wonderful game #196,positive
+This is a frustrating service #197,negative
+I have a website today #198,neutral
+The event was fantastic #199,positive
+What a horrible show #200,negative
+The lesson is located nearby #201,neutral
+Amazing experience with this event #202,positive
+I do not recommend this hotel #203,negative
+I used this lesson today #204,neutral
+This is the best movie ever #205,positive
+This is a frustrating experience #206,negative
+I am looking at this movie #207,neutral
+This is an awesome movie #208,positive
+Awful experience with this lesson #209,negative
+I received the book today #210,neutral
+This is the best update ever #211,positive
+I am very disappointed with this course #212,negative
+The book is scheduled for tomorrow #213,neutral
+Absolutely excellent order #214,positive
+This is the worst phone ever #215,negative
+This purchase is available in the store #216,neutral
+Everything about this book is perfect #217,positive
+I absolutely hate this product #218,negative
+The experience arrived this morning #219,neutral
+This book is brilliant #220,positive
+What a horrible show #221,negative
+I am using this purchase for work #222,neutral
+Absolutely excellent product #223,positive
+This is a terrible service #224,negative
+I have a experience today #225,neutral
+Absolutely excellent phone #226,positive
+Everything about this game is disappointing #227,negative
+The lesson starts at ten o'clock #228,neutral
+What a wonderful purchase #229,positive
+What a horrible phone #230,negative
+I am looking at this game #231,neutral
+This is an awesome phone #232,positive
+This is a frustrating game #233,negative
+The website is scheduled for tomorrow #234,neutral
+This movie is brilliant #235,positive
+The lesson was awful #236,negative
+I have a purchase today #237,neutral
+I highly recommend this experience #238,positive
+This is a frustrating website #239,negative
+The application is located nearby #240,neutral
+I am extremely satisfied with this application #241,positive
+This is a frustrating purchase #242,negative
+I used this application today #243,neutral
+Amazing experience with this course #244,positive
+I am extremely dissatisfied with this purchase #245,negative
+I am learning about this website #246,neutral
+This is the best application ever #247,positive
+I am extremely dissatisfied with this movie #248,negative
+I bought a new phone #249,neutral
+Everything about this order is perfect #250,positive
+I am very disappointed with this restaurant #251,negative
+The show is located nearby #252,neutral
+The event was fantastic #253,positive
+Everything about this website is disappointing #254,negative
+The product is scheduled for tomorrow #255,neutral
+This restaurant is brilliant #256,positive
+I really disliked this course #257,negative
+I am looking at this service #258,neutral
+I am extremely satisfied with this book #259,positive
+The hotel was awful #260,negative
+I bought a new lesson #261,neutral
+The product was fantastic #262,positive
+This is a terrible book #263,negative
+I received the meeting today #264,neutral
+This is the best phone ever #265,positive
+This is a terrible update #266,negative
+I bought a new game #267,neutral
+Amazing experience with this course #268,positive
+I really disliked this update #269,negative
+I am using this movie for work #270,neutral
+I really enjoyed this meeting #271,positive
+I am very disappointed with this book #272,negative
+I used this purchase today #273,neutral
+I absolutely love this hotel #274,positive
+This is a frustrating lesson #275,negative
+I saw this restaurant today #276,neutral
+The purchase was fantastic #277,positive
+This is a terrible course #278,negative
+The course starts at ten o'clock #279,neutral
+This movie is brilliant #280,positive
+Awful experience with this event #281,negative
+I am using this event for work #282,neutral
+This purchase is brilliant #283,positive
+The device was awful #284,negative
+The event was delivered this afternoon #285,neutral
+Absolutely excellent experience #286,positive
+I am very disappointed with this purchase #287,negative
+I saw this device today #288,neutral
+This application is brilliant #289,positive
+I do not recommend this meeting #290,negative
+I am looking at this device #291,neutral
+Absolutely excellent product #292,positive
+This is the worst event ever #293,negative
+The purchase is scheduled for tomorrow #294,neutral
+I am extremely satisfied with this meeting #295,positive
+I do not recommend this course #296,negative
+The show is currently available #297,neutral
+This restaurant made my day #298,positive
+Absolutely terrible order #299,negative
+I am learning about this application #300,neutral
+This service is brilliant #301,positive
+This is the worst hotel ever #302,negative
+I saw this update today #303,neutral
+The service was fantastic #304,positive
+Everything about this website is disappointing #305,negative
+I saw this event today #306,neutral
+I am very happy with this restaurant #307,positive
+What a horrible product #308,negative
+I used this website today #309,neutral
+This update made my day #310,positive
+Everything about this service is disappointing #311,negative
+The purchase is currently available #312,neutral
+This is an awesome meeting #313,positive
+I am very disappointed with this device #314,negative
+The device is currently available #315,neutral
+I am very happy with this experience #316,positive
+This product is useless #317,negative
+I have a movie today #318,neutral
+I am extremely satisfied with this purchase #319,positive
+I am very disappointed with this application #320,negative
+I am learning about this hotel #321,neutral
+This phone made my day #322,positive
+Absolutely terrible website #323,negative
+I have a movie today #324,neutral
+This experience made my day #325,positive
+I am extremely dissatisfied with this show #326,negative
+I saw this hotel today #327,neutral
+Absolutely excellent update #328,positive
+The show was awful #329,negative
+The hotel starts at ten o'clock #330,neutral
+I really enjoyed this lesson #331,positive
+This application ruined my day #332,negative
+The order was delivered this afternoon #333,neutral
+This book made my day #334,positive
+I am extremely dissatisfied with this website #335,negative
+The book is located nearby #336,neutral
+I am extremely satisfied with this hotel #337,positive
+This website ruined my day #338,negative
+I am looking at this show #339,neutral
+This is an amazing event #340,positive
+I am very disappointed with this book #341,negative
+The course arrived this morning #342,neutral
+This is an awesome lesson #343,positive
+This is a terrible experience #344,negative
+I received the website today #345,neutral
+I really enjoyed this experience #346,positive
+Awful experience with this restaurant #347,negative
+This purchase is available in the store #348,neutral
+I really enjoyed this course #349,positive
+Absolutely terrible show #350,negative
+I bought a new phone #351,neutral
+I am very happy with this purchase #352,positive
+I really disliked this meeting #353,negative
+The product was delivered this afternoon #354,neutral
+Everything about this meeting is perfect #355,positive
+I really disliked this order #356,negative
+I used this game today #357,neutral
+This is the best device ever #358,positive
+Everything about this purchase is disappointing #359,negative
+I am using this lesson for work #360,neutral
+I am extremely satisfied with this update #361,positive
+This is a frustrating website #362,negative
+The website is currently available #363,neutral
+This is the best purchase ever #364,positive
+This product ruined my day #365,negative
+I bought a new course #366,neutral
+This device is brilliant #367,positive
+Awful experience with this application #368,negative
+The show is located nearby #369,neutral
+This is an awesome experience #370,positive
+I do not recommend this lesson #371,negative
+I used this device today #372,neutral
+I highly recommend this meeting #373,positive
+This product is useless #374,negative
+This purchase is available in the store #375,neutral
+What a wonderful show #376,positive
+What a horrible phone #377,negative
+I am looking at this device #378,neutral
+The restaurant was fantastic #379,positive
+This course ruined my day #380,negative
+The device arrived this morning #381,neutral
+This is the best purchase ever #382,positive
+This is the worst service ever #383,negative
+The product is currently available #384,neutral
+Amazing experience with this lesson #385,positive
+I absolutely hate this game #386,negative
+The service is scheduled for tomorrow #387,neutral
+I am extremely satisfied with this phone #388,positive
+I am extremely dissatisfied with this product #389,negative
+The restaurant is scheduled for tomorrow #390,neutral
+Everything about this product is perfect #391,positive
+I do not recommend this experience #392,negative
+The experience is scheduled for tomorrow #393,neutral
+This movie made my day #394,positive
+I do not recommend this restaurant #395,negative
+The book is currently available #396,neutral
+I am extremely satisfied with this game #397,positive
+What a horrible update #398,negative
+The movie starts at ten o'clock #399,neutral
+I am extremely satisfied with this application #400,positive
+This is the worst movie ever #401,negative
+The product starts at ten o'clock #402,neutral
+This is an awesome event #403,positive
+I do not recommend this device #404,negative
+I bought a new restaurant #405,neutral
+This is an amazing meeting #406,positive
+Awful experience with this website #407,negative
+This event is available in the store #408,neutral
+Everything about this update is perfect #409,positive
+I am extremely dissatisfied with this movie #410,negative
+I am learning about this meeting #411,neutral
+I am extremely satisfied with this phone #412,positive
+The lesson was awful #413,negative
+I bought a new game #414,neutral
+This is an amazing hotel #415,positive
+This course is useless #416,negative
+I used this purchase today #417,neutral
+Everything about this order is perfect #418,positive
+This is a terrible purchase #419,negative
+The show arrived this morning #420,neutral
+Amazing experience with this experience #421,positive
+I really disliked this application #422,negative
+The hotel was delivered this afternoon #423,neutral
+This book is brilliant #424,positive
+I do not recommend this lesson #425,negative
+I am learning about this order #426,neutral
+This purchase made my day #427,positive
+Everything about this meeting is disappointing #428,negative
+I am looking at this course #429,neutral
+Everything about this website is perfect #430,positive
+Everything about this service is disappointing #431,negative
+I am looking at this show #432,neutral
+I am very happy with this show #433,positive
+I do not recommend this update #434,negative
+I saw this device today #435,neutral
+The product was fantastic #436,positive
+This course ruined my day #437,negative
+I received the order today #438,neutral
+I am very happy with this game #439,positive
+I am extremely dissatisfied with this book #440,negative
+The book arrived this morning #441,neutral
+This is an awesome update #442,positive
+Awful experience with this book #443,negative
+I am using this product for work #444,neutral
+Absolutely excellent restaurant #445,positive
+This is a terrible website #446,negative
+The purchase was delivered this afternoon #447,neutral
+This lesson made my day #448,positive
+I am extremely dissatisfied with this website #449,negative
+The order was delivered this afternoon #450,neutral
+This order is brilliant #451,positive
+This product ruined my day #452,negative
+This event is available in the store #453,neutral
+I am very happy with this device #454,positive
+Awful experience with this website #455,negative
+I am looking at this meeting #456,neutral
+The order was fantastic #457,positive
+Absolutely terrible hotel #458,negative
+The purchase arrived this morning #459,neutral
+Amazing experience with this lesson #460,positive
+The game was awful #461,negative
+The show was delivered this afternoon #462,neutral
+This is the best event ever #463,positive
+This is the worst website ever #464,negative
+This restaurant is available in the store #465,neutral
+The movie was fantastic #466,positive
+Awful experience with this lesson #467,negative
+I am learning about this application #468,neutral
+I am very happy with this restaurant #469,positive
+Awful experience with this order #470,negative
+I am looking at this meeting #471,neutral
+I am extremely satisfied with this hotel #472,positive
+I do not recommend this event #473,negative
+This restaurant is available in the store #474,neutral
+This is the best website ever #475,positive
+The application was awful #476,negative
+I am looking at this product #477,neutral
+Amazing experience with this lesson #478,positive
+What a horrible book #479,negative
+I used this phone today #480,neutral
+Absolutely excellent event #481,positive
+Awful experience with this experience #482,negative
+I saw this order today #483,neutral
+This is an amazing product #484,positive
+I do not recommend this event #485,negative
+The order is currently available #486,neutral
+This course made my day #487,positive
+What a horrible phone #488,negative
+I am looking at this order #489,neutral
+This is an amazing service #490,positive
+I really disliked this order #491,negative
+This meeting is available in the store #492,neutral
+This phone is brilliant #493,positive
+What a horrible experience #494,negative
+I am learning about this meeting #495,neutral
+This is the best service ever #496,positive
+I am very disappointed with this movie #497,negative
+I am using this purchase for work #498,neutral
+I highly recommend this update #499,positive
+I am extremely dissatisfied with this update #500,negative
+The hotel is scheduled for tomorrow #501,neutral
+I really enjoyed this show #502,positive
+This is a frustrating show #503,negative
+I am looking at this meeting #504,neutral
+I really enjoyed this event #505,positive
+I do not recommend this update #506,negative
+I used this update today #507,neutral
+Amazing experience with this movie #508,positive
+I am extremely dissatisfied with this restaurant #509,negative
+I saw this restaurant today #510,neutral
+This is the best service ever #511,positive
+What a horrible website #512,negative
+I received the lesson today #513,neutral
+This is an amazing application #514,positive
+I absolutely hate this purchase #515,negative
+The update is currently available #516,neutral
+This event made my day #517,positive
+I absolutely hate this website #518,negative
+I am looking at this event #519,neutral
+Amazing experience with this show #520,positive
+This is a terrible website #521,negative
+I have a book today #522,neutral
+I am extremely satisfied with this meeting #523,positive
+This restaurant is useless #524,negative
+I bought a new movie #525,neutral
+Absolutely excellent website #526,positive
+This experience is useless #527,negative
+I have a book today #528,neutral
+Everything about this experience is perfect #529,positive
+This is a terrible phone #530,negative
+I received the event today #531,neutral
+I highly recommend this meeting #532,positive
+This is a frustrating event #533,negative
+The movie is currently available #534,neutral
+This event made my day #535,positive
+Awful experience with this device #536,negative
+I am looking at this hotel #537,neutral
+Absolutely excellent order #538,positive
+This service ruined my day #539,negative
+The phone starts at ten o'clock #540,neutral
+This is an awesome purchase #541,positive
+Awful experience with this course #542,negative
+The book starts at ten o'clock #543,neutral
+I absolutely love this service #544,positive
+I am very disappointed with this meeting #545,negative
+The product starts at ten o'clock #546,neutral
+I am extremely satisfied with this book #547,positive
+I do not recommend this phone #548,negative
+I am learning about this application #549,neutral
+This hotel made my day #550,positive
+This show is useless #551,negative
+I have a book today #552,neutral
+What a wonderful meeting #553,positive
+I really disliked this order #554,negative
+This order is available in the store #555,neutral
+The purchase was fantastic #556,positive
+The course was awful #557,negative
+I saw this movie today #558,neutral
+Everything about this application is perfect #559,positive
+The purchase was awful #560,negative
+The order was delivered this afternoon #561,neutral
+This is the best device ever #562,positive
+Everything about this lesson is disappointing #563,negative
+I used this show today #564,neutral
+This is an amazing course #565,positive
+This is the worst course ever #566,negative
+This device is available in the store #567,neutral
+Everything about this hotel is perfect #568,positive
+Everything about this product is disappointing #569,negative
+I saw this lesson today #570,neutral
+This purchase made my day #571,positive
+I absolutely hate this restaurant #572,negative
+I am using this game for work #573,neutral
+I highly recommend this order #574,positive
+This show is useless #575,negative
+I am learning about this phone #576,neutral
+I am very happy with this book #577,positive
+Absolutely terrible experience #578,negative
+I have a event today #579,neutral
+This order made my day #580,positive
+This is a terrible product #581,negative
+I saw this update today #582,neutral
+I am extremely satisfied with this website #583,positive
+Awful experience with this application #584,negative
+I am looking at this lesson #585,neutral
+I absolutely love this lesson #586,positive
+I really disliked this service #587,negative
+The movie is scheduled for tomorrow #588,neutral
+This movie made my day #589,positive
+This experience is useless #590,negative
+The event is currently available #591,neutral
+Absolutely excellent book #592,positive
+I really disliked this order #593,negative
+The website is currently available #594,neutral
+This lesson made my day #595,positive
+What a horrible device #596,negative
+The update is scheduled for tomorrow #597,neutral
+Absolutely excellent experience #598,positive
+Everything about this service is disappointing #599,negative
+I am looking at this purchase #600,neutral
+The hotel was fantastic #601,positive
+This is the worst product ever #602,negative
+I am looking at this event #603,neutral
+Everything about this meeting is perfect #604,positive
+I do not recommend this order #605,negative
+The experience is located nearby #606,neutral
+This lesson made my day #607,positive
+This game ruined my day #608,negative
+The lesson arrived this morning #609,neutral
+I am extremely satisfied with this lesson #610,positive
+I really disliked this show #611,negative
+I have a course today #612,neutral
+Everything about this restaurant is perfect #613,positive
+Awful experience with this website #614,negative
+The device starts at ten o'clock #615,neutral
+I am very happy with this purchase #616,positive
+I absolutely hate this course #617,negative
+The order was delivered this afternoon #618,neutral
+Amazing experience with this device #619,positive
+I really disliked this experience #620,negative
+The phone is currently available #621,neutral
+What a wonderful hotel #622,positive
+I do not recommend this course #623,negative
+The movie is located nearby #624,neutral
+Everything about this show is perfect #625,positive
+This is a terrible hotel #626,negative
+I have a show today #627,neutral
+I absolutely love this experience #628,positive
+I really disliked this experience #629,negative
+This order is available in the store #630,neutral
+I am extremely satisfied with this book #631,positive
+The update was awful #632,negative
+The device was delivered this afternoon #633,neutral
+This service is brilliant #634,positive
+Everything about this course is disappointing #635,negative
+The lesson is located nearby #636,neutral
+I really enjoyed this course #637,positive
+This order is useless #638,negative
+The lesson is located nearby #639,neutral
+I absolutely love this update #640,positive
+This is a terrible website #641,negative
+I saw this event today #642,neutral
+I am very happy with this service #643,positive
+I really disliked this movie #644,negative
+I am learning about this movie #645,neutral
+This application made my day #646,positive
+Awful experience with this event #647,negative
+I have a product today #648,neutral
+I absolutely love this course #649,positive
+I am extremely dissatisfied with this phone #650,negative
+I am looking at this game #651,neutral
+The purchase was fantastic #652,positive
+What a horrible website #653,negative
+I am using this purchase for work #654,neutral
+I highly recommend this application #655,positive
+What a horrible application #656,negative
+This update is available in the store #657,neutral
+Everything about this device is perfect #658,positive
+I do not recommend this website #659,negative
+The meeting is currently available #660,neutral
+What a wonderful website #661,positive
+This book ruined my day #662,negative
+The book is currently available #663,neutral
+This product is brilliant #664,positive
+This is a frustrating show #665,negative
+I have a event today #666,neutral
+This lesson is brilliant #667,positive
+What a horrible service #668,negative
+The game is currently available #669,neutral
+I highly recommend this event #670,positive
+This purchase is useless #671,negative
+The book was delivered this afternoon #672,neutral
+This event made my day #673,positive
+I am very disappointed with this device #674,negative
+The order is located nearby #675,neutral
+This is an amazing website #676,positive
+I really disliked this meeting #677,negative
+The meeting arrived this morning #678,neutral
+This is the best event ever #679,positive
+I absolutely hate this device #680,negative
+I am looking at this product #681,neutral
+I highly recommend this phone #682,positive
+This is a frustrating update #683,negative
+The order was delivered this afternoon #684,neutral
+Everything about this event is perfect #685,positive
+I am extremely dissatisfied with this website #686,negative
+The game starts at ten o'clock #687,neutral
+I am very happy with this restaurant #688,positive
+I do not recommend this book #689,negative
+I saw this experience today #690,neutral
+This movie is brilliant #691,positive
+This is a frustrating phone #692,negative
+I am looking at this show #693,neutral
+I absolutely love this meeting #694,positive
+The experience was awful #695,negative
+This event is available in the store #696,neutral
+The purchase was fantastic #697,positive
+What a horrible restaurant #698,negative
+I received the lesson today #699,neutral
+This is an awesome game #700,positive
+Absolutely terrible hotel #701,negative
+I have a book today #702,neutral
+Everything about this application is perfect #703,positive
+This is the worst order ever #704,negative
+I am learning about this event #705,neutral
+Amazing experience with this course #706,positive
+I am extremely dissatisfied with this movie #707,negative
+The service is currently available #708,neutral
+What a wonderful website #709,positive
+Everything about this device is disappointing #710,negative
+The lesson is located nearby #711,neutral
+The service was fantastic #712,positive
+I am extremely dissatisfied with this device #713,negative
+I used this book today #714,neutral
+Absolutely excellent movie #715,positive
+This game ruined my day #716,negative
+I saw this book today #717,neutral
+I highly recommend this device #718,positive
+Everything about this game is disappointing #719,negative
+This website is available in the store #720,neutral
+This product made my day #721,positive
+I do not recommend this lesson #722,negative
+The update arrived this morning #723,neutral
+I am very happy with this service #724,positive
+This show is useless #725,negative
+I have a event today #726,neutral
+This purchase is brilliant #727,positive
+This is a terrible experience #728,negative
+I used this phone today #729,neutral
+This is the best order ever #730,positive
+This is a terrible movie #731,negative
+The lesson is scheduled for tomorrow #732,neutral
+What a wonderful device #733,positive
+This game ruined my day #734,negative
+I saw this lesson today #735,neutral
+I really enjoyed this meeting #736,positive
+Awful experience with this experience #737,negative
+I have a purchase today #738,neutral
+This movie is brilliant #739,positive
+Everything about this order is disappointing #740,negative
+The purchase starts at ten o'clock #741,neutral
+This is the best phone ever #742,positive
+Awful experience with this game #743,negative
+The show is scheduled for tomorrow #744,neutral
+This website made my day #745,positive
+Everything about this game is disappointing #746,negative
+This game is available in the store #747,neutral
+Absolutely excellent game #748,positive
+I absolutely hate this device #749,negative
+I am looking at this restaurant #750,neutral
+This is an amazing show #751,positive
+This is a terrible restaurant #752,negative
+I saw this update today #753,neutral
+I absolutely love this phone #754,positive
+I am extremely dissatisfied with this course #755,negative
+The experience is scheduled for tomorrow #756,neutral
+I am extremely satisfied with this meeting #757,positive
+I am very disappointed with this service #758,negative
+The lesson is located nearby #759,neutral
+I am very happy with this meeting #760,positive
+I am very disappointed with this website #761,negative
+The experience arrived this morning #762,neutral
+I am extremely satisfied with this update #763,positive
+I absolutely hate this book #764,negative
+The experience is located nearby #765,neutral
+What a wonderful lesson #766,positive
+This is the worst application ever #767,negative
+This product is available in the store #768,neutral
+What a wonderful product #769,positive
+The website was awful #770,negative
+The course starts at ten o'clock #771,neutral
+I absolutely love this application #772,positive
+This is the worst phone ever #773,negative
+I received the purchase today #774,neutral
+Absolutely excellent movie #775,positive
+Awful experience with this service #776,negative
+The show is currently available #777,neutral
+I am extremely satisfied with this game #778,positive
+Absolutely terrible meeting #779,negative
+This show is available in the store #780,neutral
+Absolutely excellent website #781,positive
+I do not recommend this phone #782,negative
+The hotel was delivered this afternoon #783,neutral
+This is the best show ever #784,positive
+This product is useless #785,negative
+I used this order today #786,neutral
+Everything about this device is perfect #787,positive
+I really disliked this movie #788,negative
+The show is currently available #789,neutral
+This is an amazing service #790,positive
+The update was awful #791,negative
+I received the service today #792,neutral
+What a wonderful book #793,positive
+I do not recommend this meeting #794,negative
+I am using this course for work #795,neutral
+I really enjoyed this update #796,positive
+Absolutely terrible event #797,negative
+The hotel is currently available #798,neutral
+I highly recommend this purchase #799,positive
+This is a terrible movie #800,negative
+The lesson is located nearby #801,neutral
+Amazing experience with this restaurant #802,positive
+I really disliked this show #803,negative
+I have a website today #804,neutral
+I really enjoyed this course #805,positive
+Everything about this show is disappointing #806,negative
+I bought a new purchase #807,neutral
+Amazing experience with this movie #808,positive
+The purchase was awful #809,negative
+The book arrived this morning #810,neutral
+The experience was fantastic #811,positive
+This order is useless #812,negative
+This service is available in the store #813,neutral
+Everything about this service is perfect #814,positive
+This is a terrible purchase #815,negative
+This game is available in the store #816,neutral
+I am extremely satisfied with this experience #817,positive
+Absolutely terrible phone #818,negative
+The lesson starts at ten o'clock #819,neutral
+Absolutely excellent course #820,positive
+This movie is useless #821,negative
+I bought a new game #822,neutral
+Everything about this purchase is perfect #823,positive
+Everything about this phone is disappointing #824,negative
+I am looking at this update #825,neutral
+This is the best game ever #826,positive
+This is a terrible meeting #827,negative
+I am using this restaurant for work #828,neutral
+What a wonderful order #829,positive
+I am very disappointed with this movie #830,negative
+The lesson arrived this morning #831,neutral
+The movie was fantastic #832,positive
+I am extremely dissatisfied with this book #833,negative
+The website starts at ten o'clock #834,neutral
+I am extremely satisfied with this purchase #835,positive
+Everything about this lesson is disappointing #836,negative
+I am learning about this update #837,neutral
+I highly recommend this lesson #838,positive
+I absolutely hate this update #839,negative
+I have a book today #840,neutral
+I absolutely love this application #841,positive
+This is the worst event ever #842,negative
+I have a course today #843,neutral
+The product was fantastic #844,positive
+What a horrible experience #845,negative
+The device starts at ten o'clock #846,neutral
+This is an amazing experience #847,positive
+Awful experience with this product #848,negative
+This hotel is available in the store #849,neutral
+I am very happy with this device #850,positive
+I really disliked this show #851,negative
+The application arrived this morning #852,neutral
+The event was fantastic #853,positive
+Awful experience with this course #854,negative
+I am learning about this meeting #855,neutral
+I highly recommend this service #856,positive
+This is a frustrating phone #857,negative
+I received the application today #858,neutral
+I am extremely satisfied with this update #859,positive
+I absolutely hate this service #860,negative
+I am looking at this show #861,neutral
+This purchase is brilliant #862,positive
+This update ruined my day #863,negative
+The purchase is currently available #864,neutral
+This is the best restaurant ever #865,positive
+I am extremely dissatisfied with this hotel #866,negative
+This game is available in the store #867,neutral
+I really enjoyed this movie #868,positive
+This is the worst meeting ever #869,negative
+The hotel is currently available #870,neutral
+This event is brilliant #871,positive
+I absolutely hate this website #872,negative
+I bought a new update #873,neutral
+I absolutely love this product #874,positive
+I am very disappointed with this event #875,negative
+The experience is scheduled for tomorrow #876,neutral
+I am extremely satisfied with this book #877,positive
+This is the worst course ever #878,negative
+This product is available in the store #879,neutral
+This purchase made my day #880,positive
+What a horrible experience #881,negative
+I bought a new lesson #882,neutral
+Amazing experience with this website #883,positive
+Absolutely terrible lesson #884,negative
+The game is located nearby #885,neutral
+This is an amazing device #886,positive
+Everything about this phone is disappointing #887,negative
+I bought a new product #888,neutral
+This service made my day #889,positive
+Everything about this course is disappointing #890,negative
+The purchase starts at ten o'clock #891,neutral
+I highly recommend this device #892,positive
+Awful experience with this purchase #893,negative
+I am looking at this movie #894,neutral
+I really enjoyed this product #895,positive
+The application was awful #896,negative
+I am learning about this update #897,neutral
+This game made my day #898,positive
+This is a terrible purchase #899,negative
+The movie is located nearby #900,neutral
+I am very happy with this purchase #901,positive
+I do not recommend this device #902,negative
+I am using this service for work #903,neutral
+I really enjoyed this event #904,positive
+Awful experience with this course #905,negative
+The course is scheduled for tomorrow #906,neutral
+I am extremely satisfied with this application #907,positive
+This is a terrible hotel #908,negative
+I saw this movie today #909,neutral
+Absolutely excellent hotel #910,positive
+I am very disappointed with this game #911,negative
+The experience arrived this morning #912,neutral
+I am very happy with this movie #913,positive
+What a horrible book #914,negative
+The application is scheduled for tomorrow #915,neutral
+I highly recommend this experience #916,positive
+I am extremely dissatisfied with this service #917,negative
+I received the order today #918,neutral
+This meeting made my day #919,positive
+I am extremely dissatisfied with this meeting #920,negative
+The meeting is currently available #921,neutral
+This update is brilliant #922,positive
+The course was awful #923,negative
+I received the show today #924,neutral
+This is an amazing order #925,positive
+This event ruined my day #926,negative
+I am learning about this book #927,neutral
+I highly recommend this phone #928,positive
+The hotel was awful #929,negative
+This event is available in the store #930,neutral
+This show made my day #931,positive
+I absolutely hate this phone #932,negative
+The event arrived this morning #933,neutral
+This is an amazing service #934,positive
+I do not recommend this update #935,negative
+I am using this device for work #936,neutral
+This meeting made my day #937,positive
+Absolutely terrible phone #938,negative
+The meeting is currently available #939,neutral
+This restaurant is brilliant #940,positive
+The update was awful #941,negative
+The hotel is currently available #942,neutral
+What a wonderful phone #943,positive
+This movie ruined my day #944,negative
+I am learning about this course #945,neutral
+Amazing experience with this service #946,positive
+Absolutely terrible application #947,negative
+I used this website today #948,neutral
+Amazing experience with this show #949,positive
+This hotel ruined my day #950,negative
+I am using this update for work #951,neutral
+What a wonderful game #952,positive
+The event was awful #953,negative
+I bought a new purchase #954,neutral
+I am extremely satisfied with this course #955,positive
+This update is useless #956,negative
+I used this course today #957,neutral
+This is an amazing course #958,positive
+This is a terrible lesson #959,negative
+I saw this device today #960,neutral
+This is the best book ever #961,positive
+Awful experience with this update #962,negative
+The experience is located nearby #963,neutral
+The service was fantastic #964,positive
+I do not recommend this experience #965,negative
+I have a game today #966,neutral
+This is the best device ever #967,positive
+What a horrible update #968,negative
+The service was delivered this afternoon #969,neutral
+This is the best lesson ever #970,positive
+I really disliked this course #971,negative
+The experience is located nearby #972,neutral
+This hotel is brilliant #973,positive
+This is a terrible purchase #974,negative
+I am using this game for work #975,neutral
+I absolutely love this game #976,positive
+This is the worst application ever #977,negative
+The course is scheduled for tomorrow #978,neutral
+I am extremely satisfied with this order #979,positive
+I am very disappointed with this website #980,negative
+I received the experience today #981,neutral
+This is an amazing event #982,positive
+Everything about this movie is disappointing #983,negative
+I am using this lesson for work #984,neutral
+Everything about this hotel is perfect #985,positive
+I absolutely hate this course #986,negative
+I have a update today #987,neutral
+What a wonderful update #988,positive
+I really disliked this experience #989,negative
+I received the application today #990,neutral
+Everything about this update is perfect #991,positive
+I am extremely dissatisfied with this application #992,negative
+The show was delivered this afternoon #993,neutral
+I absolutely love this purchase #994,positive
+The website was awful #995,negative
+The update is currently available #996,neutral
+This is the best show ever #997,positive
+I am very disappointed with this lesson #998,negative
+The event is scheduled for tomorrow #999,neutral
+I am extremely satisfied with this order #1000,positive
