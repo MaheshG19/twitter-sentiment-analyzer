@@ -999,3 +999,7 @@ id,text,category
 998,The movie was terrible,negative
 999,This experience was bad,negative
 1000,I was not happy with the result,negative
+1001,I dislike this book overall even though a few parts are good,nwgative
+1002,The movie has some good scenes but the overall story is bad,negative
+1003,I liked a few characters but the movie was terrible,negative
+1004,The plot has some good ideas but the execution is awful,negative
